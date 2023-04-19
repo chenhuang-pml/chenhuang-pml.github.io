@@ -12,7 +12,7 @@ redirect_from:
 
 > 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml;
 
-> *导航：* [科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \| [获奖及荣誉](#jump5) 
+> <span id="jumpx">*导航：* </span>：[科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \| [获奖及荣誉](#jump5) 
 
 # <span id="jump0">科研项目</span>
 1. **中国科协青年人才托举工程**（项目编号2022QNRC001）“基于人工智能的普适预测信道建模”，项目负责人（2022.10--2025.10），30万元。
@@ -29,7 +29,7 @@ redirect_from:
 
 7. **南京市博士后招收资助**“基于多径簇的时变无线信道建模研究”，项目负责人（2021.4-2023.4），10万元。
 
-# <span id="jump1">发表文章</span>
+# <span id="jump1">发表文章</span>  ([返回页首](#jumpx))
 更多相关研究论文，请移步 [谷歌学术](https://scholar.google.com/citations?user=aUcaq54AAAAJ)
 
 ## 代表性期刊论文
