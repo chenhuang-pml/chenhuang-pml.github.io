@@ -30,7 +30,7 @@ redirect_from:
 7)**南京市博士后招收资助**“基于多径簇的时变无线信道建模研究”，项目负责人（2021.4-2023.4），10万元
 
 # <span id="jump1">发表文章</span>
-更多相关研究论文，请移步[谷歌学术]（https://scholar.google.com/citations?user=aUcaq54AAAAJ）
+更多相关研究论文，请移步 [谷歌学术](https://scholar.google.com/citations?user=aUcaq54AAAAJ)
 ## 代表性期刊论文
 [1].**C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” IEEE Trans. Antennas Propag., vol. 70, no. 6, pp. 3955-3969, June 2022.
 
