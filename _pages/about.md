@@ -13,7 +13,7 @@ redirect_from:
 #### 邮箱：huangchen@pmlabs.com.cn  
 #### 微信号：huangchen_pml
 
-[发表文章](#jump1) | [专利](#jump2) | [获奖](#jump3)
+发表文章(#jump1) | 专利(#jump2) | 获奖(#jump3) |
 
 
 # <span id="jump1">发表文章</span>
@@ -55,9 +55,19 @@ redirect_from:
 
 [18]. Q. Chen, C. Huang, and L. Tang. “Load-ware based dynamic enhanced inter-cell interference coordination scheme in heterogeneous networks,” Journal of Beijing University of Posts & Telecommunications, vol. 16, no. 11, 2015. （EI期刊，导师一作）
 
-C. Huang, Q. Chen, and L. Tang. “A survey on interference management for LTE-A network,” Journal of Chongqing University of Posts & Telecommunications, vol. 27, no. 3, 2015.（中文核心）
+[19]. C. Huang, Q. Chen, and L. Tang. “A survey on interference management for LTE-A network,” Journal of Chongqing University of Posts & Telecommunications, vol. 27, no. 3, 2015.（中文核心）
+
 ## 会议论文
 1243
-## 专利
-12234
+## <span id="jump2">专利</span>
+[1]黄晨、王承祥、李哲鳌、钱中玉、周文奇、常恒泰、辛立建，一种基于深度学习的预测信道建模方法及相关装置. 受理号：202211685853.4.
+[2]黄晨、王承祥、冯瑞、黄杰、辛立建、常恒泰，信道建模方法、装置、电子设备及存储介质，受理号：20211506183.0.
+[3]王承祥，周文奇，黄晨，李哲鳌，钱中玉. 一种针对6G全覆盖无线通信的场景扩展与分类方法. 受理号：202211604035.7.
+[4]王承祥，周文奇，黄晨，李哲鳌，钱中玉. 一种基于6G全覆盖场景分类与智能识别的自适应信道建模方法. 受理号：202211603711.9.
+[5]辛立建，王承祥，黄晨，黄杰，冯瑞，常恒泰. 无线信道的信道多径聚簇方法、装置、电子设备及介质. 受理号：202210891088.5
+[6]王承祥，李哲鳌，于龙，黄晨，黄杰，钱中玉，一种基于机器学习的空时域预测信道建模方法. 受理号：202211189126.9.
+[7]王承祥、李哲鳌、黄杰、周文奇、黄晨，一种基于对抗网络与长短期记忆网络的预测信道建模方法. 受理号：202210214717.0.
+[8]常恒泰，王承，黄杰，黄晨，冯瑞，辛立建，无人机通信波束域信道仿真方法、装置、电子设备及介质，受理号：20211506183.0.
+[9]王承祥、李哲鳌、黄杰、周文奇、黄晨，一种基于对抗网络与长短期记忆网络的预测信道建模方法，受理号：202210214717.0.
+
 ## 获奖
