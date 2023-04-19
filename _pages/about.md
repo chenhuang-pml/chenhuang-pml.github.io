@@ -14,12 +14,12 @@ redirect_from:
 邮箱：huangchen@pmlabs.com.cn
 微信号：huangchen_pml
 
-# Publications
+# 发表文章
 123
-## Journals
+## 期刊论文
 123
-## Conferences
+## 会议论文
 1243
-## Patents
-
+## 专利
 12234
+## 获奖
