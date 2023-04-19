@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "黄晨1322"
+  name             : "黄晨1400"
   avatar           : "profile.png"
   bio              : "紫金山实验室 & 东南大学"
   location         : "中国·江苏·南京"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
