@@ -12,7 +12,7 @@ redirect_from:
 
 > 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml;
 
-> <span id="jumpx">**导航：** </span>[科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \| [获奖及荣誉](#jump5) \|[教育经历](#jump6)
+> <span id="jumpx">**导航：** </span>[科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \|[专著](#jump41) \| [获奖及荣誉](#jump5) \|[教育经历](#jump6)
 
 # <span id="jump0">科研项目</span>
 1. **中国科协青年人才托举工程**（项目编号2022QNRC001），“基于人工智能的普适预测信道建模”，项目负责人（2022.10--2025.10），30万元。
@@ -164,6 +164,12 @@ redirect_from:
 [1]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
 
 [2]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
+
+## <span id="jump41">英文专著</span>
+>[返回页首](#jumpx)
+
+[1]**C. Huang** et al, “Chapter 2: Applications of machine learning on wireless channel modeling”, **Applications of Machine Learning on Wireless Communications**, published, The Institution of Engineering and Technology (IET), 2018. (章节第一作者)
+
 
 ## <span id="jump5">获奖及荣誉</span>
 >[返回页首](#jumpx)
