@@ -13,13 +13,12 @@ redirect_from:
 #### 邮箱：huangchen@pmlabs.com.cn  
 #### 微信号：huangchen_pml
 
-发表文章(#jump1) | 专利(#jump2) | 获奖(#jump3) |
+[发表文章](#jump1) - [专利](#jump2) - [获奖](#jump3) -
 
 
 # <span id="jump1">发表文章</span>
-123
 ## 期刊论文
-[1]. C. Huang, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” IEEE Trans. Antennas Propag., vol. 70, no. 6, pp. 3955-3969, June 2022.
+[1]. **C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” IEEE Trans. Antennas Propag., vol. 70, no. 6, pp. 3955-3969, June 2022.
 
 [2]. C. Huang, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part I: Channel characterization and antenna-channel optimization,” IEEE Trans. Antennas Propag., vol. 70, no. 6, pp. 3939-3954, June 2022.
 
