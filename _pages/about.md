@@ -75,13 +75,13 @@ redirect_from:
 
 ## 代表性会议论文
 
-[20]. Z. Li, C.-X. Wang*, **C. Huang\***, L. Yu, J. Li, and Z. Qian, “A novel scatterer density-based predictive channel model for 6G communications,” in *Proc. IEEE VTC’23-Spring*, Florence, Italy, June 2023, pp. 1-5.
+[20]. Z. Li, C.-X. Wang\*, **C. Huang\***, L. Yu, J. Li, and Z. Qian, “A novel scatterer density-based predictive channel model for 6G communications,” in *Proc. IEEE VTC’23-Spring*, Florence, Italy, June 2023, pp. 1-5.
 
 [21]. Z. Qian, Z. Li, W. Zhou, **C. Huang\***, and C.-X. Wang*, “6G wireless channel scenario extensions and characteristics analysis,” in *Proc. VTC-Spring’23*, Florence, Italy, June 2023.
 
-[22]. Z. Li, C.-X. Wang*, J. Huang*, W. Zhou, and **C. Huang\***, “A GAN-LSTM based AI framework for 6G wireless channel prediction,” in *Proc. IEEE VTC’22-Spring*, Helsinki, Finland, June 2022.
+[22]. Z. Li, C.-X. Wang\*, J. Huang, W. Zhou, and **C. Huang\***, “A GAN-LSTM based AI framework for 6G wireless channel prediction,” in *Proc. IEEE VTC’22-Spring*, Helsinki, Finland, June 2022.
 
-[23]. Y. Wu, Y. Wang, J. Huang, C. -X. Wang*, and **C. Huang\***, “A weighted random forest based positioning algorithm for 6G indoor communications,” in *Proc. IEEE VTC2022-Fall*, London, United Kingdom, Sep. 2022, pp. 1-6.
+[23]. Y. Wu, Y. Wang, J. Huang, C. -X. Wang\*, and **C. Huang\***, “A weighted random forest based positioning algorithm for 6G indoor communications,” in *Proc. IEEE VTC2022-Fall*, London, United Kingdom, Sep. 2022, pp. 1-6.
 
 [24]. **C. Huang**, A. Molisch, R. Wang, P. Tang, R. He and Z. Zhong, “Angular information-based NLOS/LOS identification for vehicle to vehicle MIMO system,” in *Proc. 2019 IEEE ICC-ws*, May 2019, pp. 1-6. 
 
