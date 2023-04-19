@@ -30,8 +30,6 @@ redirect_from:
 7. **南京市博士后招收资助**“基于多径簇的时变无线信道建模研究”，项目负责人（2021.4-2023.4），10万元。
 
 # <span id="jump1">发表文章</span> 
-([返回页首](#jumpx))
-
 更多相关研究论文，请移步 [谷歌学术](https://scholar.google.com/citations?user=aUcaq54AAAAJ)
 
 ## 代表性期刊论文
@@ -151,6 +149,7 @@ redirect_from:
 [13]. 王承祥、李哲鳌、黄杰、周文奇、**黄晨**，一种基于对抗网络与长短期记忆网络的预测信道建模方法，受理号：202210214717.0.
 
 ## <span id="jump3">标准提案</span>
+>[返回页首](#jumpx)
 
 (1). 王承祥，李哲鳌，**黄晨**，李俊伶，6G空时预测信道建模研究，**IMT-2030**无线AI任务组2023年度第1次会议，2023-04-08.
 
@@ -159,14 +158,14 @@ redirect_from:
 (3). Cheng-Xiang Wang, Yi Zheng, Jie Huang, Rui Feng, **Chen Huang**, Measurements and Characteristics Analysis of 6G Ultra-Massive MIMO Wireless Channelswith Different Antenna Configurations and Scenarios, **ITU-R** CG 3K-6 Discussion, 2023.03.15.
 
 ## <span id="jump4">Tutorials</span>
-([返回页首](#jumpx))
+>[返回页首](#jumpx)
 
 [1]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
 
 [2]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
 
 ## <span id="jump5">获奖及荣誉</span>
-([返回页首](#jumpx))
+>[返回页首](#jumpx)
 
 - 中兴通讯“促进产学研合作青年专家委员会”专家，2023
 
