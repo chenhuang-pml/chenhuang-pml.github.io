@@ -12,7 +12,7 @@ redirect_from:
 
 #### 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml
 
-[科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \| [获奖](#jump3) 
+[科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \| [获奖](#jump5) 
 
 # <span id="jump0">科研项目</span>
 1)**中国科协青年人才托举工程**（项目编号2022QNRC001）“基于人工智能的普适预测信道建模”，项目负责人（2022.10--2025.10），30万元
@@ -134,6 +134,17 @@ redirect_from:
 
 [9]王承祥、李哲鳌、黄杰、周文奇、黄晨，一种基于对抗网络与长短期记忆网络的预测信道建模方法，受理号：202210214717.0.
 
-## 
+## <span id="jump3">标准提案</span>
+1)王承祥，李哲鳌，**黄晨**，李俊伶，6G空时预测信道建模研究，**IMT-2030无线AI任务组2023年度第1次会议**，2023-04-08.
+
+2)王承祥，杨润若，黄杰，辛立建，**黄晨**，一种结合前向散射与后向散射的新型6G通感一体化信道模型，**IMT-2030推进组通信感知一体化任务组第6次会议**，2023.03.31.
+
+3)Cheng-Xiang Wang, Yi Zheng, Jie Huang, Rui Feng, **Chen Huang**, Measurements and Characteristics Analysis of 6G Ultra-Massive MIMO Wireless Channelswith Different Antenna Configurations and Scenarios, **ITU-R** CG 3K-6 Discussion, 2023.03.15.
+
+## <span id="jump4">Tutorials</span>
+
+[1]C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
+
+[2]C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
 
 ## 获奖
