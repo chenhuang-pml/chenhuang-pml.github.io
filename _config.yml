@@ -11,9 +11,9 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://chenhuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chenhuang-pml.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chenhuang-pml/chenhuang.github.io"
+repository               : "chenhuang-pml/chenhuang-pml.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "黄晨1315"
+  name             : "黄晨1322"
   avatar           : "profile.png"
   bio              : "紫金山实验室 & 东南大学"
   location         : "中国·江苏·南京"
