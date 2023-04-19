@@ -12,7 +12,7 @@ redirect_from:
 
 > 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml;
 
-> <span id="jumpx">**导航：** </span>[科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \|[专著](#jump41) \| [获奖及荣誉](#jump5) \|[教育经历](#jump6)
+> <span id="jumpx">**导航：** </span>[科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \|[英文专著](#jump41) \| [获奖及荣誉](#jump5) \|[教育经历](#jump6)
 
 # <span id="jump0">科研项目</span>
 1. **中国科协青年人才托举工程**（项目编号2022QNRC001），“基于人工智能的普适预测信道建模”，项目负责人（2022.10 -- 2025.10），30万元。
@@ -41,9 +41,9 @@ redirect_from:
 
 [3]. **C. Huang**, R. Wang, C.-X. Wang, P. Tang, A. F. Molisch, “A geometry-based stochastic model for truck communication channels in freeway scenarios,” ***IEEE Trans. Commun.***,  vol. 70, no. 8, pp. 5572-5586, Aug. 2022.
 
-[4]. **C. Huang**, A. F. Molisch, R. He, R. Wang, P. Tang, B. Ai and Z. Zhong, “Machine learning-enabled LOS/NLOS identification for MIMO systems in dynamic environments,” ***IEEE Trans. Wirel. Commun.***, vol. 19, no. 6, pp. 3643-3657, Jun. 2020.
+[4]. **C. Huang**, R. Wang, P. Tang, R. He, B. Ai, Z. Zhong, C. Oestges and A. F. Molisch, "Geometry-cluster-based stochastic MIMO model for vehicle-to-vehicle communications in street canyon scenarios,” ***IEEE Trans. Wirel. Commun.***, vol. 20, no. 2, pp. 755-770, Feb. 2021.
 
-[5]. **C. Huang**, R. Wang, P. Tang, R. He, B. Ai, Z. Zhong, C. Oestges and A. F. Molisch, "Geometry-cluster-based stochastic MIMO model for vehicle-to-vehicle communications in street canyon scenarios,” ***IEEE Trans. Wirel. Commun.***, vol. 20, no. 2, pp. 755-770, Feb. 2021.
+[5]. **C. Huang**, A. F. Molisch, R. He, R. Wang, P. Tang, B. Ai and Z. Zhong, “Machine learning-enabled LOS/NLOS identification for MIMO systems in dynamic environments,” ***IEEE Trans. Wirel. Commun.***, vol. 19, no. 6, pp. 3643-3657, Jun. 2020.
 
 [6]. **C. Huang**, A. F. Molisch, Y. Geng, R. He, B. Ai and Z. Zhong, “Trajectory-joint clustering algorithm for time-varying channel modeling,” ***IEEE Trans. Veh. Technol.***, vol. 69, no. 1, pp. 1041-1045, Jan. 2020.
 
@@ -59,7 +59,7 @@ redirect_from:
 
 [12]. G. Sun, R. He, B. Ai, **C. Huang** and Z. Zhong, “Dynamic clustering of multipath components for time-varying propagation channels,” ***IEEE Trans. Veh. Technol.***, vol. 70, no. 12, pp. 13396-13400, Dec. 2021.
 
-[13]. M. Yang, B. Ai, R. He, C. Shen, M. Wen, C. Huang, J. Li, Z. Ma, L. Chen, X. Li and Z. Zhong, “Machine-learning-based scenario identification using channel characteristics in intelligent vehicular communications,” ***IEEE Trans. Intell. Transp. Syst.***, vol. 22, no. 7, pp. 3961-3974, July 2021.
+[13]. M. Yang, B. Ai, R. He, C. Shen, M. Wen, **C. Huang**, J. Li, Z. Ma, L. Chen, X. Li and Z. Zhong, “Machine-learning-based scenario identification using channel characteristics in intelligent vehicular communications,” ***IEEE Trans. Intell. Transp. Syst.***, vol. 22, no. 7, pp. 3961-3974, July 2021.
 
 [14]. M. Yang, B. Ai, R. He, **C. Huang**, Z. Ma, Z. Zhong, J. Wang, L. Pei, Y. Li, J. Li, “Machine-learning-based fast angle-of-arrival recognition for vehicular communications,” ***IEEE Trans. Veh. Technol.***, vol. 70, no. 2, pp. 1592-1605, Feb. 2021.
 
@@ -175,45 +175,25 @@ redirect_from:
 >[返回页首](#jumpx)
 
 - 中兴通讯“促进产学研合作青年专家委员会”专家，2023
-
 - 中国科协青年人才托举工程，2022
-
 - 网络通信与安全紫金山实验室优秀员工，2022
-
 - 网络通信与安全紫金山实验室“登攀者”最佳学员，2022
-
 - 网络通信与安全紫金山实验室“登攀者”最佳风采奖，2022
-
 - 网络通信与安全紫金山实验室“登攀者”团队第一名，2022
-
 - 江苏省卓越博士后，2022
-
 - 网络通信与安全紫金山实验室优秀新人，2021
-
 - 北京市优秀博士毕业生，2021
-
 - 全国研究生电子设计竞赛一等奖，2020
-
 - 华为通信与网络竞赛亚军，2020
-
 - MathWorks企业专项奖二等奖，2020
-
 - 北京交通大学知行（校长）奖学金，2020
-
 - 国家奖学金，2019
-
 - 华为奖学金，2019
-
 - WCSP2018最佳会议论文奖，2018
-
 - IEEE ICCC2018最佳会议论文奖，2018
-
 - 秋琦奖学金, 北京交通大学, 2017
-
 - 重庆邮电大学优秀毕业生 , 重庆邮电大学，2016
-
 - 英语演讲大赛一等奖，重庆邮电大学, 2014
-
 - 英语演讲大赛最佳风采奖，重庆邮电大学, 2014
 
 ## <span id="jump6">教育经历</span>
