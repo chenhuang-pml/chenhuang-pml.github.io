@@ -149,11 +149,11 @@ redirect_from:
 
 ## <span id="jump3">标准提案</span>
 
-(1)王承祥，李哲鳌，**黄晨**，李俊伶，6G空时预测信道建模研究，**IMT-2030无线AI任务组2023年度第1次会议**，2023-04-08.
+(1). 王承祥，李哲鳌，**黄晨**，李俊伶，6G空时预测信道建模研究，**IMT-2030无线AI任务组2023年度第1次会议**，2023-04-08.
 
-(2)王承祥，杨润若，黄杰，辛立建，**黄晨**，一种结合前向散射与后向散射的新型6G通感一体化信道模型，**IMT-2030推进组通信感知一体化任务组第6次会议**，2023.03.31.
+(2). 王承祥，杨润若，黄杰，辛立建，**黄晨**，一种结合前向散射与后向散射的新型6G通感一体化信道模型，**IMT-2030推进组通信感知一体化任务组第6次会议**，2023.03.31.
 
-(3)Cheng-Xiang Wang, Yi Zheng, Jie Huang, Rui Feng, **Chen Huang**, Measurements and Characteristics Analysis of 6G Ultra-Massive MIMO Wireless Channelswith Different Antenna Configurations and Scenarios, **ITU-R** CG 3K-6 Discussion, 2023.03.15.
+(3). Cheng-Xiang Wang, Yi Zheng, Jie Huang, Rui Feng, **Chen Huang**, Measurements and Characteristics Analysis of 6G Ultra-Massive MIMO Wireless Channelswith Different Antenna Configurations and Scenarios, **ITU-R** CG 3K-6 Discussion, 2023.03.15.
 
 ## <span id="jump4">Tutorials</span>
 
