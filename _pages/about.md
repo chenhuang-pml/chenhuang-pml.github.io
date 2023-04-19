@@ -12,7 +12,7 @@ redirect_from:
 
 > 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml;
 
-> <span id="jumpx">*导航：* </span>[科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \| [获奖及荣誉](#jump5) 
+> <span id="jumpx">**导航：** </span>[科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \| [获奖及荣誉](#jump5) 
 
 # <span id="jump0">科研项目</span>
 1. **中国科协青年人才托举工程**（项目编号2022QNRC001）“基于人工智能的普适预测信道建模”，项目负责人（2022.10--2025.10），30万元。
@@ -31,6 +31,7 @@ redirect_from:
 
 # <span id="jump1">发表文章</span> 
 ([返回页首](#jumpx))
+
 更多相关研究论文，请移步 [谷歌学术](https://scholar.google.com/citations?user=aUcaq54AAAAJ)
 
 ## 代表性期刊论文
@@ -118,6 +119,7 @@ redirect_from:
 [40]. M. Yang, B. Ai, R. He, L. Chen, X. Li, Z. Huang, J. Li, B. Zhang and **C. Huang** “Path loss analysis and modeling for vehicle-to-vehicle communications with vehicle obstructions,” in *Proc. 2018 WCSP*, Hangzhou, Oct. 2018, pp. 1-6.
 
 ## <span id="jump2">专利</span>
+([返回页首](#jumpx))
 ### 已授权
 
 [1]. **黄晨**，何睿斯，钟章队等，无线时变信道中的多径分量的分簇方法，201710471869.8
@@ -157,12 +159,15 @@ redirect_from:
 (3). Cheng-Xiang Wang, Yi Zheng, Jie Huang, Rui Feng, **Chen Huang**, Measurements and Characteristics Analysis of 6G Ultra-Massive MIMO Wireless Channelswith Different Antenna Configurations and Scenarios, **ITU-R** CG 3K-6 Discussion, 2023.03.15.
 
 ## <span id="jump4">Tutorials</span>
+([返回页首](#jumpx))
 
 [1]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
 
 [2]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
 
 ## <span id="jump5">获奖及荣誉</span>
+([返回页首](#jumpx))
+
 - 中兴通讯“促进产学研合作青年专家委员会”专家，2023
 
 - 中国科协青年人才托举工程，2022
