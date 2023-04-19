@@ -117,7 +117,7 @@ redirect_from:
 [40]. M. Yang, B. Ai, R. He, L. Chen, X. Li, Z. Huang, J. Li, B. Zhang and **C. Huang** “Path loss analysis and modeling for vehicle-to-vehicle communications with vehicle obstructions,” in *Proc. 2018 WCSP*, Hangzhou, Oct. 2018, pp. 1-6.
 
 ## <span id="jump2">专利</span>
-([返回页首](#jumpx))
+>[返回页首](#jumpx)
 ### 已授权
 
 [1]. **黄晨**，何睿斯，钟章队等，无线时变信道中的多径分量的分簇方法，201710471869.8
