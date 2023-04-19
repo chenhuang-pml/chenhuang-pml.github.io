@@ -16,142 +16,142 @@ redirect_from:
 [科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \| [获奖](#jump5) 
 
 # <span id="jump0">科研项目</span>
-1).**中国科协青年人才托举工程**（项目编号2022QNRC001）“基于人工智能的普适预测信道建模”，项目负责人（2022.10--2025.10），30万元
+1). **中国科协青年人才托举工程**（项目编号2022QNRC001）“基于人工智能的普适预测信道建模”，项目负责人（2022.10--2025.10），30万元
 
-2).**国家重点研发计划青年科学家项目**（项目编号2022YFB2903800）“基于光子无线融合的感知通信一体化系统理论与关键技术研究”，子任务负责人（2022.11.01--2025.10.31），300万元
+2). **国家重点研发计划青年科学家项目**（项目编号2022YFB2903800）“基于光子无线融合的感知通信一体化系统理论与关键技术研究”，子任务负责人（2022.11.01--2025.10.31），300万元
 
-3).**江苏省重点研发计划项目**（项目编号BE2022067、BE2022067-1）“未来 6G 无线通信信道测量、建模与性能评估技术研发”，子任务负责人（2022.6--2026.6），1500万元
+3). **江苏省重点研发计划项目**（项目编号BE2022067、BE2022067-1）“未来 6G 无线通信信道测量、建模与性能评估技术研发”，子任务负责人（2022.6--2026.6），1500万元
 
-4).**中国博士后科学基金第70批面上项目**（项目批准编号：2021M702499）“基于机器学习的频域预测信道建模”，项目负责人（2021.10.15--2023.3.15），8万元
+4). **中国博士后科学基金第70批面上项目**（项目批准编号：2021M702499）“基于机器学习的频域预测信道建模”，项目负责人（2021.10.15--2023.3.15），8万元
 
-5).**江苏省卓越博士后计划**“基于人工智能的6G无线通信空时频预测信道建模”，项目负责人（2021.4.17--2023.4.16），30万元
+5). **江苏省卓越博士后计划**“基于人工智能的6G无线通信空时频预测信道建模”，项目负责人（2021.4.17--2023.4.16），30万元
 
-6).**南京市留学人员科技创新项目A类**“基于人工智能的空域信道预测研究”，项目负责人（2022.9.28-2023.9.28），10万元
+6). **南京市留学人员科技创新项目A类**“基于人工智能的空域信道预测研究”，项目负责人（2022.9.28-2023.9.28），10万元
 
-7).**南京市博士后招收资助**“基于多径簇的时变无线信道建模研究”，项目负责人（2021.4-2023.4），10万元
+7). **南京市博士后招收资助**“基于多径簇的时变无线信道建模研究”，项目负责人（2021.4-2023.4），10万元
 
 # <span id="jump1">发表文章</span>
 更多相关研究论文，请移步 [谷歌学术](https://scholar.google.com/citations?user=aUcaq54AAAAJ)
 
 ## 代表性期刊论文
 
-[1].**C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” IEEE Trans. Antennas Propag., vol. 70, no. 6, pp. 3955-3969, June 2022.
+[1]. **C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” IEEE Trans. Antennas Propag., vol. 70, no. 6, pp. 3955-3969, June 2022.
 
-[2].**C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part I: Channel characterization and antenna-channel optimization,” IEEE Trans. Antennas Propag., vol. 70, no. 6, pp. 3939-3954, June 2022.
+[2]. **C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part I: Channel characterization and antenna-channel optimization,” IEEE Trans. Antennas Propag., vol. 70, no. 6, pp. 3939-3954, June 2022.
 
-[3].**C. Huang**, R. Wang, C.-X. Wang, P. Tang, A. F. Molisch, “A geometry-based stochastic model for truck communication channels in freeway scenarios,” IEEE Trans. Commun.,  vol. 70, no. 8, pp. 5572-5586, Aug. 2022.
+[3]. **C. Huang**, R. Wang, C.-X. Wang, P. Tang, A. F. Molisch, “A geometry-based stochastic model for truck communication channels in freeway scenarios,” IEEE Trans. Commun.,  vol. 70, no. 8, pp. 5572-5586, Aug. 2022.
 
-[4].**C. Huang**, A. F. Molisch, R. He, R. Wang, P. Tang, B. Ai and Z. Zhong, “Machine learning-enabled LOS/NLOS identification for MIMO systems in dynamic environments,” IEEE Trans. Wirel. Commun., vol. 19, no. 6, pp. 3643-3657, Jun. 2020.
+[4]. **C. Huang**, A. F. Molisch, R. He, R. Wang, P. Tang, B. Ai and Z. Zhong, “Machine learning-enabled LOS/NLOS identification for MIMO systems in dynamic environments,” IEEE Trans. Wirel. Commun., vol. 19, no. 6, pp. 3643-3657, Jun. 2020.
 
-[5].**C. Huang**, R. Wang, P. Tang, R. He, B. Ai, Z. Zhong, C. Oestges and A. F. Molisch, "Geometry-cluster-based stochastic MIMO model for vehicle-to-vehicle communications in street canyon scenarios,” IEEE Trans. Wirel. Commun., vol. 20, no. 2, pp. 755-770, Feb. 2021.
+[5]. **C. Huang**, R. Wang, P. Tang, R. He, B. Ai, Z. Zhong, C. Oestges and A. F. Molisch, "Geometry-cluster-based stochastic MIMO model for vehicle-to-vehicle communications in street canyon scenarios,” IEEE Trans. Wirel. Commun., vol. 20, no. 2, pp. 755-770, Feb. 2021.
 
-[6].**C. Huang**, A. F. Molisch, Y. Geng, R. He, B. Ai and Z. Zhong, “Trajectory-joint clustering algorithm for time-varying channel modeling,” IEEE Trans. Veh. Technol., vol. 69, no. 1, pp. 1041-1045, Jan. 2020.
+[6]. **C. Huang**, A. F. Molisch, Y. Geng, R. He, B. Ai and Z. Zhong, “Trajectory-joint clustering algorithm for time-varying channel modeling,” IEEE Trans. Veh. Technol., vol. 69, no. 1, pp. 1041-1045, Jan. 2020.
 
-[7].**C. Huang**, A. F. Molisch, R. He, R. Wang, P. Tang and Z. Zhong, “Machine-learning-based data processing techniques for vehicle-to-vehicle channel modeling,” IEEE Commun. Mag., vol. 57, no. 11, pp. 109-115, Nov. 2019.
+[7]. **C. Huang**, A. F. Molisch, R. He, R. Wang, P. Tang and Z. Zhong, “Machine-learning-based data processing techniques for vehicle-to-vehicle channel modeling,” IEEE Commun. Mag., vol. 57, no. 11, pp. 109-115, Nov. 2019.
 
-[8].**C. Huang**, R. He, Z. Zhong, B. Ai, Y. Geng, Z. Zhong, Q. Li, K. Haneda and C. Oestges, “A power-angle-spectrum based clustering and tracking algorithm for time-varying radio channels,”  IEEE Trans. Veh. Technol., vol. 68, no. 1, pp. 291-305, Jan. 2019.
+[8]. **C. Huang**, R. He, Z. Zhong, B. Ai, Y. Geng, Z. Zhong, Q. Li, K. Haneda and C. Oestges, “A power-angle-spectrum based clustering and tracking algorithm for time-varying radio channels,”  IEEE Trans. Veh. Technol., vol. 68, no. 1, pp. 291-305, Jan. 2019.
 
-[9].**C. Huang**, R. He, Z. Zhong, Y. Geng, Q. Li and Z. Zhong, “A novel tracking-based multipath component clustering algorithm,” IEEE Antennas Wireless Propag. Lett., vol. 16, pp. 2679-2683, 2017.
+[9]. **C. Huang**, R. He, Z. Zhong, Y. Geng, Q. Li and Z. Zhong, “A novel tracking-based multipath component clustering algorithm,” IEEE Antennas Wireless Propag. Lett., vol. 16, pp. 2679-2683, 2017.
 
-[10].**C. Huang**, Q. Chen and L. Tang, “Hybrid inter-cell interference management for ultra-dense heterogeneous network in 5G,” Sci. China Inf. Sci., vol. 59, no. 8, 2016.
+[10]. **C. Huang**, Q. Chen and L. Tang, “Hybrid inter-cell interference management for ultra-dense heterogeneous network in 5G,” Sci. China Inf. Sci., vol. 59, no. 8, 2016.
 
-[11].R. He, B. Ai, G. Wang, M. Yang, **C. Huang** and Z. Zhong, “Wireless channel sparsity: measurement, analysis and exploitation in estimation,” IEEE Wirel. Commun., vol. 28, no. 4, pp. 113-119, Aug. 2021.
+[11]. R. He, B. Ai, G. Wang, M. Yang, **C. Huang** and Z. Zhong, “Wireless channel sparsity: measurement, analysis and exploitation in estimation,” IEEE Wirel. Commun., vol. 28, no. 4, pp. 113-119, Aug. 2021.
 
-[12].G. Sun, R. He, B. Ai, **C. Huang** and Z. Zhong, “Dynamic clustering of multipath components for time-varying propagation channels,” IEEE Trans. Veh. Technol., vol. 70, no. 12, pp. 13396-13400, Dec. 2021.
+[12]. G. Sun, R. He, B. Ai, **C. Huang** and Z. Zhong, “Dynamic clustering of multipath components for time-varying propagation channels,” IEEE Trans. Veh. Technol., vol. 70, no. 12, pp. 13396-13400, Dec. 2021.
 
-[13].M. Yang, B. Ai, R. He, C. Shen, M. Wen, C. Huang, J. Li, Z. Ma, L. Chen, X. Li and Z. Zhong, “Machine-learning-based scenario identification using channel characteristics in intelligent vehicular communications,” IEEE Trans. Intell. Transp. Syst., vol. 22, no. 7, pp. 3961-3974, July 2021.
+[13]. M. Yang, B. Ai, R. He, C. Shen, M. Wen, C. Huang, J. Li, Z. Ma, L. Chen, X. Li and Z. Zhong, “Machine-learning-based scenario identification using channel characteristics in intelligent vehicular communications,” IEEE Trans. Intell. Transp. Syst., vol. 22, no. 7, pp. 3961-3974, July 2021.
 
-[14].M. Yang, B. Ai, R. He, **C. Huang**, Z. Ma, Z. Zhong, J. Wang, L. Pei, Y. Li, J. Li, “Machine-learning-based fast angle-of-arrival recognition for vehicular communications,” IEEE Trans. Veh. Technol., vol. 70, no. 2, pp. 1592-1605, Feb. 2021.
+[14]. M. Yang, B. Ai, R. He, **C. Huang**, Z. Ma, Z. Zhong, J. Wang, L. Pei, Y. Li, J. Li, “Machine-learning-based fast angle-of-arrival recognition for vehicular communications,” IEEE Trans. Veh. Technol., vol. 70, no. 2, pp. 1592-1605, Feb. 2021.
 
-[15].M. Yang, B. Ai, R. He, G. Wang, L. Chen, X. Li, **C. Huang**, Z. Ma, Z. Zhong, J. Wang, Y. Li and T. Juhana, “Measurements and cluster-based modeling of vehicle-to-vehicle channels with large vehicle obstructions,” IEEE Trans. Wirel. Commun., vol. 19, no. 9, pp. 5860-5874, Sept. 2020.
+[15]. M. Yang, B. Ai, R. He, G. Wang, L. Chen, X. Li, **C. Huang**, Z. Ma, Z. Zhong, J. Wang, Y. Li and T. Juhana, “Measurements and cluster-based modeling of vehicle-to-vehicle channels with large vehicle obstructions,” IEEE Trans. Wirel. Commun., vol. 19, no. 9, pp. 5860-5874, Sept. 2020.
 
-[16].M. Yang, B. Ai, R. He, L. Chen, X. Li, J. Li, B. Zhang, **C. Huang** and Z. Zhong, “A cluster-based three-dimensional channel model for vehicle-to-vehicle communications,” IEEE Trans. Veh. Technol., vol. 68, no. 6, pp. 5208-5220, June 2019.
+[16]. M. Yang, B. Ai, R. He, L. Chen, X. Li, J. Li, B. Zhang, **C. Huang** and Z. Zhong, “A cluster-based three-dimensional channel model for vehicle-to-vehicle communications,” IEEE Trans. Veh. Technol., vol. 68, no. 6, pp. 5208-5220, June 2019.
 
-[17].Q. Zheng, R. He, B. Ai, **C. Huang**, W. Chen, Z. Zhong and H. Zhang, “Channel non-line-of-sight identification based on convolutional neural networks,” IEEE Wireless Commun. Lett., vol. 9, no. 9, pp. 1500-1504, Sept. 2020.
+[17]. Q. Zheng, R. He, B. Ai, **C. Huang**, W. Chen, Z. Zhong and H. Zhang, “Channel non-line-of-sight identification based on convolutional neural networks,” IEEE Wireless Commun. Lett., vol. 9, no. 9, pp. 1500-1504, Sept. 2020.
 
-[18].Q. Chen, **C. Huang**, and L. Tang. “Load-ware based dynamic enhanced inter-cell interference coordination scheme in heterogeneous networks,” Journal of Beijing University of Posts & Telecommunications, vol. 16, no. 11, 2015. （EI期刊，导师一作）
+[18]. Q. Chen, **C. Huang**, and L. Tang. “Load-ware based dynamic enhanced inter-cell interference coordination scheme in heterogeneous networks,” Journal of Beijing University of Posts & Telecommunications, vol. 16, no. 11, 2015. （EI期刊，导师一作）
 
-[19].**C. Huang**, Q. Chen, and L. Tang. “A survey on interference management for LTE-A network,” Journal of Chongqing University of Posts & Telecommunications, vol. 27, no. 3, 2015.（中文核心）
+[19]. **C. Huang**, Q. Chen, and L. Tang. “A survey on interference management for LTE-A network,” Journal of Chongqing University of Posts & Telecommunications, vol. 27, no. 3, 2015.（中文核心）
 
 ## 代表性会议论文
 
-[20].**C. Huang**, A. Molisch, R. Wang, P. Tang, R. He and Z. Zhong, “Angular information-based NLOS/LOS identification for vehicle to vehicle MIMO system,” in Proc. 2019 IEEE ICC-ws, May 2019, pp. 1-6. 
+[20]. **C. Huang**, A. Molisch, R. Wang, P. Tang, R. He and Z. Zhong, “Angular information-based NLOS/LOS identification for vehicle to vehicle MIMO system,” in Proc. 2019 IEEE ICC-ws, May 2019, pp. 1-6. 
 
-[21].**C. Huang**, A. F. Molisch, R. Wang, P. Tang, R. He and Z. Zhong, “Research on kernel functions of SVM for line-of-sight identification in vehicle-to-vehicle MIMO system,” in Proc. 2019 IEEE A-PS, GA, USA, Jul. 2019, pp. 2107-2108.
+[21]. **C. Huang**, A. F. Molisch, R. Wang, P. Tang, R. He and Z. Zhong, “Research on kernel functions of SVM for line-of-sight identification in vehicle-to-vehicle MIMO system,” in Proc. 2019 IEEE A-PS, GA, USA, Jul. 2019, pp. 2107-2108.
 
-[22].**C. Huang** et al., “A novel target recognition based radio channel clustering algorithm,” in Proc. 2018 WCSP, Hangzhou, China, Oct. 2018, pp. 1-6. (Best paper award) 
+[22]. **C. Huang** et al., “A novel target recognition based radio channel clustering algorithm,” in Proc. 2018 WCSP, Hangzhou, China, Oct. 2018, pp. 1-6. (Best paper award) 
 
-[23].**C. Huang**, R. He, Z. Zhong, B. Ai and Z. Zhong, “Comparison of automatic tracking and clustering algorithms for time-variant multipath components,” in Proc. 2017 IEEE Globecom-ws, Singapore, Dec. 2017, pp. 1-6. 
+[23]. **C. Huang**, R. He, Z. Zhong, B. Ai and Z. Zhong, “Comparison of automatic tracking and clustering algorithms for time-variant multipath components,” in Proc. 2017 IEEE Globecom-ws, Singapore, Dec. 2017, pp. 1-6. 
 
-[24].**C. Huang**, R. He and Z. Zhong, “A novel power weighted multipath component tracking algorithm,” in Proc. 32th URSI GASS 2017, Montreal, Mar. 2017, pp. 1-4.
+[24]. **C. Huang**, R. He and Z. Zhong, “A novel power weighted multipath component tracking algorithm,” in Proc. 32th URSI GASS 2017, Montreal, Mar. 2017, pp. 1-4.
 
-[25].**C. Huang**, R. He, Z. Zhong and Z. Zhong, “Analysis of edge detection for the clusters in radio propagation channel,” in Proc. 2018 IEEE A-PS, Boston, MA, Jul. 2018, pp. 91-92.
+[25]. **C. Huang**, R. He, Z. Zhong and Z. Zhong, “Analysis of edge detection for the clusters in radio propagation channel,” in Proc. 2018 IEEE A-PS, Boston, MA, Jul. 2018, pp. 91-92.
 
-[26].**C. Huang**, R. He, B. Ai, M. Yang, Y. Geng and Z. Zhong, “Clustering performance evaluation algorithm for vehicle-to-vehicle radio channels” in Proc. EuCAP, Copenhagen, Denmark, Mar. 2020, pp. 1-4.
+[26]. **C. Huang**, R. He, B. Ai, M. Yang, Y. Geng and Z. Zhong, “Clustering performance evaluation algorithm for vehicle-to-vehicle radio channels” in Proc. EuCAP, Copenhagen, Denmark, Mar. 2020, pp. 1-4.
 
-[27].Y. Wu, Y. Wang, J. Huang, C. -X. Wang and **C. Huang**, “A weighted random forest based positioning algorithm for 6G indoor communications,” in Proc. IEEE VTC2022-Fall, London, United Kingdom, Sep. 2022, pp. 1-6.
+[27]. Y. Wu, Y. Wang, J. Huang, C. -X. Wang and **C. Huang**, “A weighted random forest based positioning algorithm for 6G indoor communications,” in Proc. IEEE VTC2022-Fall, London, United Kingdom, Sep. 2022, pp. 1-6.
 
-[28].Z. Li, C. -X. Wang, J. Huang, W. Zhou and **C. Huang**, "A GAN-LSTM based AI framework for 6G wireless channel prediction," in Proc. IEEE VTC2022-Spring, Helsinki, Finland, Jun. 2022, pp. 1-5.
+[28]. Z. Li, C. -X. Wang, J. Huang, W. Zhou and **C. Huang**, "A GAN-LSTM based AI framework for 6G wireless channel prediction," in Proc. IEEE VTC2022-Spring, Helsinki, Finland, Jun. 2022, pp. 1-5.
 
-[29].G. Sun, **C. Huang**, Z. Cheng, R. He, B. Ai and A. F. Molisch, "A Study of Clustering Algorithms for Time-Varying Multipath Components in Wireless Channels," in Proc. IEEE MILCOM, San Diego, CA, USA, Nov. 2021, pp. 414-419.
+[29]. G. Sun, **C. Huang**, Z. Cheng, R. He, B. Ai and A. F. Molisch, "A Study of Clustering Algorithms for Time-Varying Multipath Components in Wireless Channels," in Proc. IEEE MILCOM, San Diego, CA, USA, Nov. 2021, pp. 414-419.
 
-[30].H. Zhang, **C. Huang**, M. Gao, M. Yang and R. Chen, “A time-varying clustering algorithm for channel modeling of vehicular MIMO communications,” in Proc. 2020 IEEE A-PS/URSI, Rome, Italy, Aug. 2020, pp. 1-4.
+[30]. H. Zhang, **C. Huang**, M. Gao, M. Yang and R. Chen, “A time-varying clustering algorithm for channel modeling of vehicular MIMO communications,” in Proc. 2020 IEEE A-PS/URSI, Rome, Italy, Aug. 2020, pp. 1-4.
 
-[31].M. Hu, Y. Ye, R. He, B. Ai, **C. Huang** and Z. Zhong, “A novel power weighted multipath component clustering algorithm based on spectral clustering,” in Proc. IEEE VTC2020-Spring, Antwerp, Belgium, May 2020, pp. 1-5.
+[31]. M. Hu, Y. Ye, R. He, B. Ai, **C. Huang** and Z. Zhong, “A novel power weighted multipath component clustering algorithm based on spectral clustering,” in Proc. IEEE VTC2020-Spring, Antwerp, Belgium, May 2020, pp. 1-5.
 
-[32].W. Lyu, Y. Li, Z. Liu, **C. Huang** and R. He, “A Target Recognition-Based NLOS Identification Algorithm,” in Proc. 2019 IEEE A-PS/URSI, Atlanta, GA, USA, Jul. 2019, pp. 2093-2094.
+[32]. W. Lyu, Y. Li, Z. Liu, **C. Huang** and R. He, “A Target Recognition-Based NLOS Identification Algorithm,” in Proc. 2019 IEEE A-PS/URSI, Atlanta, GA, USA, Jul. 2019, pp. 2093-2094.
 
-[33].P. Tang, R. Wang, A. F. Molisch, **C. Huang** and J. Zhang, “Path loss analysis and modeling for vehicle-to-vehicle communications in convoys in safety-related scenarios,” in Proc. 2019 IEEE CAVS, Honolulu, HI, USA, Sep. 2019, pp. 1-6.
+[33]. P. Tang, R. Wang, A. F. Molisch, **C. Huang** and J. Zhang, “Path loss analysis and modeling for vehicle-to-vehicle communications in convoys in safety-related scenarios,” in Proc. 2019 IEEE CAVS, Honolulu, HI, USA, Sep. 2019, pp. 1-6.
 
-[34].M. Yang, B. Ai, R. He, L. Chen, X. Li, J. Li, Q. Wang, B. Zhang and **C. Huang** “A cluster-based 3D channel model for vehicle-to-vehicle communications,” in Proc. 2018 IEEE/CIC ICCC, Beijing, China, Aug. 2018, pp. 741-746. (Best paper award) 
+[34]. M. Yang, B. Ai, R. He, L. Chen, X. Li, J. Li, Q. Wang, B. Zhang and **C. Huang** “A cluster-based 3D channel model for vehicle-to-vehicle communications,” in Proc. 2018 IEEE/CIC ICCC, Beijing, China, Aug. 2018, pp. 741-746. (Best paper award) 
 
-[35].M. Yang, B. Ai, R. He, **C. Huang**, J. Li, L. Chen and X. Li “Influence of different antenna locations on channel characterization for V2V communications,” in Proc. 2018 IEEE A-PS/URSI, Boston, MA, Jul. 2018, pp. 377-378.
+[35]. M. Yang, B. Ai, R. He, **C. Huang**, J. Li, L. Chen and X. Li “Influence of different antenna locations on channel characterization for V2V communications,” in Proc. 2018 IEEE A-PS/URSI, Boston, MA, Jul. 2018, pp. 377-378.
 
-[36].M. Yang, B. Ai, R. He, L. Chen, X. Li, Z. Huang, J. Li, B. Zhang and **C. Huang** “Path loss analysis and modeling for vehicle-to-vehicle communications with vehicle obstructions,” in Proc. 2018 WCSP, Hangzhou, Oct. 2018, pp. 1-6.
+[36]. M. Yang, B. Ai, R. He, L. Chen, X. Li, Z. Huang, J. Li, B. Zhang and **C. Huang** “Path loss analysis and modeling for vehicle-to-vehicle communications with vehicle obstructions,” in Proc. 2018 WCSP, Hangzhou, Oct. 2018, pp. 1-6.
 
 ## <span id="jump2">专利</span>
 ### 已授权
 
-[1].**黄晨**，何睿斯，钟章队等，无线时变信道中的多径分量的分簇方法，201710471869.8
+[1]. **黄晨**，何睿斯，钟章队等，无线时变信道中的多径分量的分簇方法，201710471869.8
 
-[2].**黄晨**，何睿斯，郑青碧等，一种基于支持向量机的无线信道场景识别方法，201811155551.X
+[2]. **黄晨**，何睿斯，郑青碧等，一种基于支持向量机的无线信道场景识别方法，201811155551.X
 
-[3].陈前斌，**黄晨**，刘益富等，一种基于马尔可夫链的通信网络负载状态信息预测方法，201410768962.1
+[3]. 陈前斌，**黄晨**，刘益富等，一种基于马尔可夫链的通信网络负载状态信息预测方法，201410768962.1
 
-[4].陈前斌，**黄晨**，刘益富等，一种异构网络中基于负载感知的动态干扰管理方法，201410766928.0
+[4]. 陈前斌，**黄晨**，刘益富等，一种异构网络中基于负载感知的动态干扰管理方法，201410766928.0
 
 ### 受理中
 
-[1].黄晨、王承祥、李哲鳌、钱中玉、周文奇、常恒泰、辛立建，一种基于深度学习的预测信道建模方法及相关装置. 受理号：202211685853.4.
+[1]. 黄晨、王承祥、李哲鳌、钱中玉、周文奇、常恒泰、辛立建，一种基于深度学习的预测信道建模方法及相关装置. 受理号：202211685853.4.
 
-[2].黄晨、王承祥、冯瑞、黄杰、辛立建、常恒泰，信道建模方法、装置、电子设备及存储介质，受理号：20211506183.0.
+[2]. 黄晨、王承祥、冯瑞、黄杰、辛立建、常恒泰，信道建模方法、装置、电子设备及存储介质，受理号：20211506183.0.
 
-[3].王承祥，周文奇，黄晨，李哲鳌，钱中玉. 一种针对6G全覆盖无线通信的场景扩展与分类方法. 受理号：202211604035.7.
+[3]. 王承祥，周文奇，黄晨，李哲鳌，钱中玉. 一种针对6G全覆盖无线通信的场景扩展与分类方法. 受理号：202211604035.7.
 
-[4].王承祥，周文奇，黄晨，李哲鳌，钱中玉. 一种基于6G全覆盖场景分类与智能识别的自适应信道建模方法. 受理号：202211603711.9.
+[4]. 王承祥，周文奇，黄晨，李哲鳌，钱中玉. 一种基于6G全覆盖场景分类与智能识别的自适应信道建模方法. 受理号：202211603711.9.
 
-[5].辛立建，王承祥，黄晨，黄杰，冯瑞，常恒泰. 无线信道的信道多径聚簇方法、装置、电子设备及介质. 受理号：202210891088.5
+[5]. 辛立建，王承祥，黄晨，黄杰，冯瑞，常恒泰. 无线信道的信道多径聚簇方法、装置、电子设备及介质. 受理号：202210891088.5
 
-[6].王承祥，李哲鳌，于龙，黄晨，黄杰，钱中玉，一种基于机器学习的空时域预测信道建模方法. 受理号：202211189126.9.
+[6]. 王承祥，李哲鳌，于龙，黄晨，黄杰，钱中玉，一种基于机器学习的空时域预测信道建模方法. 受理号：202211189126.9.
 
-[7].王承祥、李哲鳌、黄杰、周文奇、黄晨，一种基于对抗网络与长短期记忆网络的预测信道建模方法. 受理号：202210214717.0.
+[7]. 王承祥、李哲鳌、黄杰、周文奇、黄晨，一种基于对抗网络与长短期记忆网络的预测信道建模方法. 受理号：202210214717.0.
 
-[8].常恒泰，王承，黄杰，黄晨，冯瑞，辛立建，无人机通信波束域信道仿真方法、装置、电子设备及介质，受理号：20211506183.0.
+[8]. 常恒泰，王承，黄杰，黄晨，冯瑞，辛立建，无人机通信波束域信道仿真方法、装置、电子设备及介质，受理号：20211506183.0.
 
-[9].王承祥、李哲鳌、黄杰、周文奇、黄晨，一种基于对抗网络与长短期记忆网络的预测信道建模方法，受理号：202210214717.0.
+[9]. 王承祥、李哲鳌、黄杰、周文奇、黄晨，一种基于对抗网络与长短期记忆网络的预测信道建模方法，受理号：202210214717.0.
 
 ## <span id="jump3">标准提案</span>
 
-1) 王承祥，李哲鳌，**黄晨**，李俊伶，6G空时预测信道建模研究，**IMT-2030无线AI任务组2023年度第1次会议**，2023-04-08.
+1). 王承祥，李哲鳌，**黄晨**，李俊伶，6G空时预测信道建模研究，**IMT-2030无线AI任务组2023年度第1次会议**，2023-04-08.
 
-2) 王承祥，杨润若，黄杰，辛立建，**黄晨**，一种结合前向散射与后向散射的新型6G通感一体化信道模型，**IMT-2030推进组通信感知一体化任务组第6次会议**，2023.03.31.
+2). 王承祥，杨润若，黄杰，辛立建，**黄晨**，一种结合前向散射与后向散射的新型6G通感一体化信道模型，**IMT-2030推进组通信感知一体化任务组第6次会议**，2023.03.31.
 
 3)Cheng-Xiang Wang, Yi Zheng, Jie Huang, Rui Feng, **Chen Huang**, Measurements and Characteristics Analysis of 6G Ultra-Massive MIMO Wireless Channelswith Different Antenna Configurations and Scenarios, **ITU-R** CG 3K-6 Discussion, 2023.03.15.
 
 ## <span id="jump4">Tutorials</span>
 
-[1].C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
+[1]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
 
-[2].C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
+[2]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
 
 ## 获奖
