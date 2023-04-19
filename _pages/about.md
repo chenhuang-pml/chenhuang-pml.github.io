@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-黄晨，网络通信与安全紫金山实验室无线信道研究员，东南大学校外导师，入选中国科协青年人才托举工程，江苏省卓越博士后，江苏省333高层次人才候选人，中国通信学会高级会员。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授（IEEE Fellow），研究方向为无线通信与信道建模，已发表论文40余篇，授权专利4项，受理专利9项，英文专著1部（章节一作）。2021年3月获得北京交通大学工学博士学位，并以双聘博后身份加入网络通信与安全紫金山实验室&东南大学，合作导师为王承祥教授（国家特聘专家，欧洲科学院院士，IEEE fellow）和黄永明教授（国家杰青资助获得者，国家万人计划科技创新领军人才）。
+黄晨，网络通信与安全紫金山实验室无线信道研究员，东南大学校外导师，入选中国科协青年人才托举工程，江苏省卓越博士后，江苏省333高层次人才候选人，中国通信学会高级会员。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授（IEEE Fellow），研究方向为无线通信与信道建模，已发表论文50余篇，授权专利4项，受理专利9项，英文专著1部（章节一作）。2021年3月获得北京交通大学工学博士学位，并以双聘博后身份加入网络通信与安全紫金山实验室&东南大学，合作导师为王承祥教授（国家特聘专家，欧洲科学院院士，IEEE fellow）和黄永明教授（国家杰青资助获得者，国家万人计划科技创新领军人才）。
 
 #### 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml
 
-[科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案] \|  [获奖](#jump3) -
+[科研项目](#jump0) \|[发表文章](#jump1) \| [专利](#jump2) \| [标准提案](#jump3) \| [Tutorials](#jump4) \| [获奖](#jump3) 
 
 # <span id="jump0">科研项目</span>
 1)**中国科协青年人才托举工程**（项目编号2022QNRC001）“基于人工智能的普适预测信道建模”，项目负责人（2022.10--2025.10），30万元
@@ -30,6 +30,7 @@ redirect_from:
 7)**南京市博士后招收资助**“基于多径簇的时变无线信道建模研究”，项目负责人（2021.4-2023.4），10万元
 
 # <span id="jump1">发表文章</span>
+更多相关研究论文，请移步[谷歌学术]（https://scholar.google.com/citations?user=aUcaq54AAAAJ）
 ## 代表性期刊论文
 [1].**C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” IEEE Trans. Antennas Propag., vol. 70, no. 6, pp. 3955-3969, June 2022.
 
