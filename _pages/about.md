@@ -35,10 +35,9 @@ redirect_from:
 
 ## 代表性期刊论文
 
-<font size=4>
-[1]. **C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” *IEEE Trans. Antennas Propag.*, vol. 70, no. 6, pp. 3955-3969, June 2022. (**Invited paper**)</font>  
-<font size=3>
-[2]. **C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part I: Channel characterization and antenna-channel optimization,” *IEEE Trans. Antennas Propag.*, vol. 70, no. 6, pp. 3939-3954, June 2022. (**Invited paper**)</font>  
+[1]. <font size=4>**C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” *IEEE Trans. Antennas Propag.*, vol. 70, no. 6, pp. 3955-3969, June 2022. (**Invited paper**)</font>
+
+[2]. <font size=3>**C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part I: Channel characterization and antenna-channel optimization,” *IEEE Trans. Antennas Propag.*, vol. 70, no. 6, pp. 3939-3954, June 2022. (**Invited paper**)</font>  
 
 [3]. **C. Huang**, R. Wang, C.-X. Wang, P. Tang, A. F. Molisch, “A geometry-based stochastic model for truck communication channels in freeway scenarios,” *IEEE Trans. Commun.*,  vol. 70, no. 8, pp. 5572-5586, Aug. 2022.
 
