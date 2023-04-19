@@ -13,7 +13,10 @@ redirect_from:
 #### 邮箱：huangchen@pmlabs.com.cn  
 #### 微信号：huangchen_pml
 
-# 发表文章
+[发表文章](#jump1) | [专利](#jump2) | [获奖](#jump3)
+
+
+# <span id="jump1">发表文章</span>
 123
 ## 期刊论文
 123
