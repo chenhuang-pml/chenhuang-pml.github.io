@@ -34,7 +34,7 @@ redirect_from:
 更多相关研究论文，请移步 [谷歌学术](https://scholar.google.com/citations?user=aUcaq54AAAAJ)
 
 ## 代表性期刊论文
-
+<font size=5>
 [1]. **C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” *IEEE Trans. Antennas Propag.*, vol. 70, no. 6, pp. 3955-3969, June 2022. (**Invited paper**)
 
 [2]. **C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part I: Channel characterization and antenna-channel optimization,” *IEEE Trans. Antennas Propag.*, vol. 70, no. 6, pp. 3939-3954, June 2022. (**Invited paper**)
@@ -72,6 +72,7 @@ redirect_from:
 [18]. Q. Chen, **C. Huang**, and L. Tang. “Load-ware based dynamic enhanced inter-cell interference coordination scheme in heterogeneous networks,” *Journal of Beijing University of Posts & Telecommunications*, vol. 16, no. 11, 2015. （EI期刊，导师一作）
 
 [19]. **C. Huang**, Q. Chen, and L. Tang. “A survey on interference management for LTE-A network,” *Journal of Chongqing University of Posts & Telecommunications*, vol. 27, no. 3, 2015.（中文核心）
+</font>
 
 ## 代表性会议论文
 
@@ -213,8 +214,7 @@ redirect_from:
 ## <span id="jump6">教育经历</span>
 >[返回页首](#jumpx)
 
->- 网络通信与安全紫金山实验室 & 东南大学 (2021年4月 – 2023年4月)
->> 双聘博士后                                                   南京，中国
+>- 网络通信与安全紫金山实验室 & 东南大学 (2021年4月 – 2023年4月) -- 双聘博士后 （南京，中国）
 >- 法语鲁汶大学 (2019年11月 – 2020年11月)
 >> 联合培养博士生  电子电气工程学院                          新鲁汶, 比利时
 >- 南加州大学	 (2018年9月 – 2019年9月)
