@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">黄晨，网络通信与安全紫金山实验室无线信道研究员，东南大学校外导师，入选中国科协青年人才托举工程，江苏省卓越博士后，中国通信学会高级会员，中兴通讯“促进产学研合作青年专家委员会”专家。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)，目前在东南大学首席教授、紫金山实验室课题负责人 [王承祥教授团队](https://ncrl.seu.edu.cn/2018/1031/c34871a245670/page.htm) 从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究，已发表论文50余篇，授权专利4项，受理专利9项，英文专著1部（章节一作），最佳会议论文2篇，并在多个国际会议上做专题报告(Tutorials)，并担任多个国际会议的TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
+<div style="text-align: justify">黄晨，网络通信与安全紫金山实验室无线信道研究员，东南大学校外导师，入选中国科协青年人才托举工程，江苏省卓越博士后，中国通信学会高级会员，中兴通讯“促进产学研合作青年专家委员会”专家。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)，目前在东南大学首席教授、紫金山实验室课题负责人  从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究，已发表论文50余篇，授权专利4项，受理专利9项，英文专著1部（章节一作），最佳会议论文2篇，并在多个国际会议上做专题报告(Tutorials)，并担任多个国际会议的TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
 
 > 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml;
 
@@ -32,7 +32,7 @@ redirect_from:
 
 # <span id="jump1">发表文章</span> 
 更多相关研究论文，请移步 [谷歌学术](https://scholar.google.com/citations?user=aUcaq54AAAAJ)
-
+[王承祥教授团队](https://ncrl.seu.edu.cn/2018/1031/c34871a245670/page.htm)
 ## 代表性期刊论文
 
 [1]. **C. Huang**, R. He, B. Ai, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” ***IEEE Trans. Antennas Propag.***, vol. 70, no. 6, pp. 3955-3969, June 2022. (**Invited paper**)
