@@ -26,7 +26,7 @@ redirect_from:
 8. **重庆市研究生科研创新项目**（项目编号：CYS14141），“基于负载感知的网络资源分配研究”，项目负责人（2012 -- 2013），3万元。
 
 # <span id="jump1">发表文章</span> 
-更多相关研究论文，请移步 [谷歌学术](https://scholar.google.com/citations?user=aUcaq54AAAAJ)
+更多相关研究成果，请移步 [谷歌学术](https://scholar.google.com/citations?user=aUcaq54AAAAJ)
 
 ## 代表性期刊论文
 
