@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">黄晨，网络通信与安全紫金山实验室无线信道研究员，东南大学校外导师，中国科协青年托举人才，江苏省卓越博士后，中国通信学会高级会员，中兴通讯“促进产学研合作青年专家委员会”专家。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)，目前在东南大学首席教授、紫金山实验室课题负责人王承祥教授(欧洲科学院院士，IEEE Fellow)团队从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究，已发表论文50余篇，授权专利4项，受理专利9项，英文专著1部（章节一作），最佳会议论文2篇，并在多个国际会议上做专题报告(Tutorials)，并担任多个国际会议的TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
+<div style="text-align: justify">黄晨，网络通信与安全紫金山实验室无线信道研究员，东南大学校外导师，入选中国科协青年人才托举工程，江苏省卓越博士后，中国通信学会高级会员，中兴通讯“促进产学研合作青年专家委员会”专家。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)，目前在东南大学首席教授、紫金山实验室课题负责人王承祥教授(欧洲科学院院士，IEEE Fellow)团队从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究，已发表论文50余篇，授权专利4项，受理专利9项，英文专著1部（章节一作），最佳会议论文2篇，并在多个国际会议上做专题报告(Tutorials)，并担任多个国际会议的TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
 
 
 > 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml;
@@ -17,16 +17,22 @@ redirect_from:
 
 # <span id="jump0">科研项目</span>
 1. **中国科协青年人才托举工程**（项目编号2022QNRC001），“基于人工智能的普适预测信道建模”，项目负责人（2022.10 -- 2025.10），30万元。
+
 2. **国家重点研发计划青年科学家项目**（项目编号2022YFB2903800），“基于光子无线融合的感知通信一体化系统理论与关键技术研究”，子任务负责人（2022.11.01 -- 2025.10.31），300万元。
+
 3. **江苏省重点研发计划项目**（项目编号BE2022067、BE2022067-1），“未来 6G 无线通信信道测量、建模与性能评估技术研发”，子任务负责人（2022.6 -- 2026.6），1500万元。
+
 4. **中国博士后科学基金第70批面上项目**（项目编号：2021M702499）“基于机器学习的频域预测信道建模”，项目负责人（2021.10.15 -- 2023.3.15），8万元。
+
 5. **江苏省卓越博士后计划**，“基于人工智能的6G无线通信空时频预测信道建模”，项目负责人（2021.4.17 -- 2023.4.16），30万元。
+
 6. **南京市留学人员科技创新项目A类**，“基于人工智能的空域信道预测研究”，项目负责人（2022.9.28 -- 2023.9.28），10万元。
+
 7. **南京市博士后招收资助**“基于多径簇的时变无线信道建模研究”，项目负责人（2021.4-2023.4），10万元。  
 8. **重庆市研究生科研创新项目**（项目编号：CYS14141），“基于负载感知的网络资源分配研究”，项目负责人（2012 -- 2013），3万元。
 
 # <span id="jump1">发表文章</span> 
-更多相关研究成果，请移步 [谷歌学术](https://scholar.google.com/citations?user=aUcaq54AAAAJ)
+更多相关研究论文，请移步 [谷歌学术](https://scholar.google.com/citations?user=aUcaq54AAAAJ)
 
 ## 代表性期刊论文
 
@@ -48,7 +54,7 @@ redirect_from:
 
 [9]. **C. Huang**, R. He, Z. Zhong, Y. Geng, Q. Li and Z. Zhong, “A novel tracking-based multipath component clustering algorithm,” ***IEEE Antennas Wireless Propag. Lett.***, vol. 16, pp. 2679-2683, 2017.
 
-[10]. **C. Huang**, Q. Chen and L. Tang, “Hybrid inter-cell interference management for ultra-dense heterogeneous network in 5G,” *Sci. China Inf. Sci.***, vol. 59, no. 8, 2016.
+[10]. **C. Huang**, Q. Chen and L. Tang, “Hybrid inter-cell interference management for ultra-dense heterogeneous network in 5G,” ***Sci. China Inf. Sci.***, vol. 59, no. 8, 2016.
 
 [11]. R. He, B. Ai, G. Wang, M. Yang, **C. Huang** and Z. Zhong, “Wireless channel sparsity: measurement, analysis and exploitation in estimation,” ***IEEE Wirel. Commun.***, vol. 28, no. 4, pp. 113-119, Aug. 2021.
 
@@ -82,7 +88,7 @@ redirect_from:
 
 [25]. **C. Huang**, A. F. Molisch, R. Wang, P. Tang, R. He and Z. Zhong, “Research on kernel functions of SVM for line-of-sight identification in vehicle-to-vehicle MIMO system,” in ***Proc. 2019 IEEE A-PS***, GA, USA, Jul. 2019, pp. 2107-2108.
 
-[26]. **C. Huang** et al., “A novel target recognition based radio channel clustering algorithm,” in ***Proc. 2018 WCSP***, Hangzhou, China, Oct. 2018, pp. 1-6. (Best paper award) 
+[26]. **C. Huang** et al., “A novel target recognition based radio channel clustering algorithm,” in ***Proc. 2018 WCSP***, Hangzhou, China, Oct. 2018, pp. 1-6. **(Best paper award)** 
 
 [27]. **C. Huang**, R. He, Z. Zhong, B. Ai and Z. Zhong, “Comparison of automatic tracking and clustering algorithms for time-variant multipath components,” in ***Proc. 2017 IEEE Globecom-ws, Singapore***, Dec. 2017, pp. 1-6. 
 
@@ -106,7 +112,7 @@ redirect_from:
 
 [37]. P. Tang, R. Wang, A. F. Molisch, **C. Huang** and J. Zhang, “Path loss analysis and modeling for vehicle-to-vehicle communications in convoys in safety-related scenarios,” in ***Proc. 2019 IEEE CAVS***, Honolulu, HI, USA, Sep. 2019, pp. 1-6.
 
-[38]. M. Yang, B. Ai, R. He, L. Chen, X. Li, J. Li, Q. Wang, B. Zhang and **C. Huang** “A cluster-based 3D channel model for vehicle-to-vehicle communications,” in ***Proc. 2018 IEEE/CIC ICCC***, Beijing, China, Aug. 2018, pp. 741-746. (Best paper award) 
+[38]. M. Yang, B. Ai, R. He, L. Chen, X. Li, J. Li, Q. Wang, B. Zhang and **C. Huang** “A cluster-based 3D channel model for vehicle-to-vehicle communications,” in ***Proc. 2018 IEEE/CIC ICCC***, Beijing, China, Aug. 2018, pp. 741-746. **(Best paper award)** 
 
 [39]. M. Yang, B. Ai, R. He, **C. Huang**, J. Li, L. Chen and X. Li “Influence of different antenna locations on channel characterization for V2V communications,” in ***Proc. 2018 IEEE A-PS/URSI, Boston***, MA, Jul. 2018, pp. 377-378.
 
