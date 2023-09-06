@@ -179,9 +179,11 @@ redirect_from:
 ## <span id="jump4">Tutorials</span>
 >[返回页首](#jumpx)
 
-[1]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
+[1]. C.-X. Wang, J. Huang, **C. Huang**, and H. Haas, “Towards 6G Communications: Wireless Channel Measurements, Characteristics Analysis, and Modeling” Tutorial, in *Proc. IEEE GlobeCom’23*, Kuala Lumpur, Malaysia, 4 - 10 Dec. 2023. 
 
-[2]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
+[2]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
+
+[3]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
 
 ## <span id="jump41">英文专著</span>
 >[返回页首](#jumpx)
@@ -230,16 +232,17 @@ redirect_from:
 ### 联合指导：
 ### 博士生：
 - 周文奇，研究方向：基于AI的场景自适应信道建模研究
+- 卜颖澜，研究方向：无线信道地图辅助的传输系统设计与优化
+- 钱中玉，研究方向：基于AI的普适预测信道建模
 
 ### 硕士生：
 - 李哲鳌，研究方向：基于AI的6G空时域预测信道建模研究
-- 钱中玉，研究方向：基于6G普适模型的场景自适应信道建模研究
 - 赵德源，研究方向：基于现网实测的城市主干道场景分类与信道建模研究
 - 武阳，研究方向：基于机器学习的室内高精度定位研究
 - 丁书艺，研究方向：基于电子地图的无线通信场景分割与识别研究
 - 王若宇，研究方向：基于射线追踪的无线信道知识地图场景仿真研究
 - 齐天润，研究方向：基于几何随机信道模型的无线信道知识地图研究
 - 石佳粤，研究方向：基于射线追踪的半确定性几何随机信道建模研究
-
-### 保研本科生：
+- 张开元，研究方向：基于AI的普适模型性能评估
 - 李涵成，研究方向：基于现网实测的城市支路场景分类与信道建模研究
+
