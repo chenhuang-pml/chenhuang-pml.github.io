@@ -181,9 +181,11 @@ redirect_from:
 
 [1]. C.-X. Wang, J. Huang, **C. Huang**, and H. Haas, “Towards 6G Communications: Wireless Channel Measurements, Characteristics Analysis, and Modeling” Tutorial, in *Proc. IEEE GlobeCom’23*, Kuala Lumpur, Malaysia, 4 - 10 Dec. 2023. 
 
-[2]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
+[2]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “6G Wireless Channels: Measurements, Characteristics Analysis, and Modeling Methodologies,” Tutorial, in *Proc. in IEEE VTC-Fall’23*, Hong Kong, China, 10 Oct. 2023.
 
-[3]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
+[3]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
+
+[4]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
 
 ## <span id="jump41">英文专著</span>
 >[返回页首](#jumpx)
