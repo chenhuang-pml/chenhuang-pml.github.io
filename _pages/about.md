@@ -40,9 +40,9 @@ redirect_from:
 
 ## 代表性期刊论文
 
-[1]. **C. Huang**, R. He\*, B. Ai\*, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” ***IEEE Trans. Antennas Propag.***, vol. 70, no. 6, pp. 3955-3969, June 2022. (**Invited paper**, **IEEE Monthly Featured Article**)
+[1]. **C. Huang**, R. He\*, B. Ai\*, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” ***IEEE Trans. Antennas Propag.***, vol. 70, no. 6, pp. 3955-3969, June 2022. (***Invited paper***, ***IEEE Monthly Featured Article***)
 
-[2]. **C. Huang**, R. He\*, B. Ai\*, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part I: Channel characterization and antenna-channel optimization,” ***IEEE Trans. Antennas Propag.***, vol. 70, no. 6, pp. 3939-3954, June 2022. (**Invited paper**, **IEEE Monthly Featured Article**)
+[2]. **C. Huang**, R. He\*, B. Ai\*, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part I: Channel characterization and antenna-channel optimization,” ***IEEE Trans. Antennas Propag.***, vol. 70, no. 6, pp. 3939-3954, June 2022. (***Invited paper***, ***IEEE Monthly Featured Article***)
 
 [3]. Zhou, C.-X. Wang\*, **C. Huang\***, Z. Li, Z. Qian, Z. Lv, and Y. Chen, “Channel scenario extensions, identifications, and adaptive modeling for 6G wireless communications,” ***IEEE Internet Things J.***, accepted for publication, 2023.
 
