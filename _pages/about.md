@@ -178,6 +178,9 @@ redirect_from:
 
 (3). Cheng-Xiang Wang, Yi Zheng, Jie Huang, Rui Feng, **Chen Huang**, Measurements and Characteristics Analysis of 6G Ultra-Massive MIMO Wireless Channelswith Different Antenna Configurations and Scenarios, **ITU-R** CG 3K-6 Discussion, 2023.03.15.
 
+(4). **Chen Huang**, Andreas F. Molisch, Yangli-Ao Geng, Ruisi He, Bo Ai, Zhangdui Zhong, Trajectory-Joint Clustering Approach for Vehicle-to-Vehicle Channel Modeling, **COST2020**, CA15104 TD(20)12003, 2020.
+(5). **Chen Huang**, Ruisi He, Zhangdui Zhong, Bo Ai, Yangli-Ao Geng, Zhimeng Zhong, Qingyong Li, Katsuyuki Haneda, Claude Oestges, A Power-Angle-Spectrum Based Clustering and Tracking Algorithm for Time-varyingRadio Channels, **COST2020**, CA15104 TD(20) 12002, 2020.
+
 ## <span id="jump4">Tutorials</span>
 >[返回页首](#jumpx)
 
