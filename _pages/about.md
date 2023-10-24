@@ -84,7 +84,7 @@ redirect_from:
 
 ## 代表性会议论文
 
-[22]. Shuyi Ding, **Chen Huang\***, Cheng-Xiang Wang\*, Junling Li, Wenqi Zhou and Deyuan Zhao, ”A novel scenario segmentation-identification algorithm for 6G wireless channel modeling” in ***Proc. IEEE ICCT’23***, Wuxi, China, Oct. 2023, pp.1-5.
+[22]. Shuyi Ding, **Chen Huang\***, Cheng-Xiang Wang\*, Junling Li, Wenqi Zhou and Deyuan Zhao, ”A novel scenario segmentation-identification algorithm for 6G wireless channel modeling” in ***Proc. IEEE ICCT’23***, Wuxi, China, Oct. 2023, pp.1-5. **(Best Paper Award)**
 
 [23]. Z. Li, C.-X. Wang\*, **C. Huang\***, L. Yu, J. Li, and Z. Qian, “A novel scatterer density-based predictive channel model for 6G communications,” in ***Proc. IEEE VTC’23-Spring***, Florence, Italy, June 2023, pp. 1-5.
 
@@ -207,6 +207,7 @@ redirect_from:
 ## <span id="jump5">获奖及荣誉</span>
 >[返回页首](#jumpx)
 
+- IEEE ICCT Best Paper Award (Corresponding Author)，2023
 - 中兴通讯“促进产学研合作青年专家委员会”专家，2023
 - 中国科协青年人才托举工程，2022
 - 网络通信与安全紫金山实验室优秀员工，2022
