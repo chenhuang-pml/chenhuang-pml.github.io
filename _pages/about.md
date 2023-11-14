@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">黄晨，紫金山实验室无线通信研究员，东南大学校外导师，入选中国科协青年人才托举工程，江苏省卓越博士后，中国通信学会高级会员，中兴通讯“促进产学研合作青年专家委员会”专家。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)。2018年至2021年分别前往美国南加州大学Molisch教授团队与比利时鲁汶大学Claude教授团队访问交流。2021年加入东南大学首席教授、紫金山实验室课题负责人王承祥教授(欧洲科学院院士，IEEE Fellow)团队从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究，已发表论文50余篇，授权专利4项，受理专利9项，英文专著1部（章节一作），最佳会议论文2篇，并在多个国际会议上做专题报告(Tutorials)，并担任多个国际会议的Chair/Co-Chair、TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
+<div style="text-align: justify">黄晨，紫金山实验室无线通信研究员，东南大学校外导师，入选中国科协青年人才托举工程，江苏省卓越博士后，中国通信学会高级会员，中兴通讯“促进产学研合作青年专家委员会”专家。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)。2018年至2021年分别前往美国南加州大学Molisch教授团队与比利时鲁汶大学Claude教授团队访问交流。2021年加入东南大学首席教授、紫金山实验室课题负责人王承祥教授(欧洲科学院院士，IEEE Fellow)团队从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究，已发表论文50余篇，授权专利4项，受理专利9项，英文专著1部（章节一作），IEEE最佳会议论文3篇，并在GlobeCom、VTC、WCNC等多个国际会议上做专题报告(Tutorials)，并担任多个国际会议的Chair/Co-Chair、TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
 
 
 > 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml;
@@ -176,15 +176,23 @@ redirect_from:
 ## <span id="jump3">标准提案</span>
 >[返回页首](#jumpx)
 
-(1). 王承祥，李哲鳌，**黄晨**，李俊伶，6G空时预测信道建模研究，**IMT-2030**无线AI任务组2023年度第1次会议，2023-04-08.
+(1). 王承祥，**黄晨**，钱中玉，李俊伶，周文奇. 场景自适应信道模型，202310024，**IMT-2030**无线技术工作组第5次会议，2023.10.22.
 
-(2). 王承祥，杨润若，黄杰，辛立建，**黄晨**，一种结合前向散射与后向散射的新型6G通感一体化信道模型，**IMT-2030**推进组通信感知一体化任务组第6次会议，2023.03.31.
+(2). 王承祥，周子皓，黄杰，辛立建，**黄晨**. 城市微小区场景Sub-6 GHz跨频段信道测量与建模，202310012，**IMT-2030**无线技术工作组第5次会议，2023.10.22.
 
-(3). Cheng-Xiang Wang, Yi Zheng, Jie Huang, Rui Feng, **Chen Huang**, Measurements and Characteristics Analysis of 6G Ultra-Massive MIMO Wireless Channelswith Different Antenna Configurations and Scenarios, **ITU-R** CG 3K-6 Discussion, 2023.03.15.
+(3). 王承祥，杨润若，黄杰，辛立建，**黄晨**. 一种结合前向散射与后向散射的新型6G通感一体化信道模型，202310007，**IMT-2030**无线技术工作组第5次会议，2023.10.22.
 
-(4). **Chen Huang**, Andreas F. Molisch, Yangli-Ao Geng, Ruisi He, Bo Ai, Zhangdui Zhong, Trajectory-Joint Clustering Approach for Vehicle-to-Vehicle Channel Modeling, **COST2020**, CA15104 TD(20)12003, 2020.
+(4). 王承祥，吕振，黄杰，**黄晨**，常恒泰. 6G普适信道模型全域信道统计特性分析，202310023，**IMT-2030**无线技术工作组第5次会议，2023.10.22.
 
-(5). **Chen Huang**, Ruisi He, Zhangdui Zhong, Bo Ai, Yangli-Ao Geng, Zhimeng Zhong, Qingyong Li, Katsuyuki Haneda, Claude Oestges, A Power-Angle-Spectrum Based Clustering and Tracking Algorithm for Time-varyingRadio Channels, **COST2020**, CA15104 TD(20) 12002, 2020.
+(5). 王承祥，李哲鳌，**黄晨**，李俊伶，6G空时预测信道建模研究，**IMT-2030**无线AI任务组2023年度第1次会议，2023-04-08.
+
+(6). 王承祥，杨润若，黄杰，辛立建，**黄晨**，一种结合前向散射与后向散射的新型6G通感一体化信道模型，**IMT-2030**推进组通信感知一体化任务组第6次会议，2023.03.31.
+
+(7). Cheng-Xiang Wang, Yi Zheng, Jie Huang, Rui Feng, **Chen Huang**, Measurements and Characteristics Analysis of 6G Ultra-Massive MIMO Wireless Channelswith Different Antenna Configurations and Scenarios, **ITU-R** CG 3K-6 Discussion, 2023.03.15.
+
+(8). **Chen Huang**, Andreas F. Molisch, Yangli-Ao Geng, Ruisi He, Bo Ai, Zhangdui Zhong, Trajectory-Joint Clustering Approach for Vehicle-to-Vehicle Channel Modeling, **COST2020**, CA15104 TD(20)12003, 2020.
+
+(9). **Chen Huang**, Ruisi He, Zhangdui Zhong, Bo Ai, Yangli-Ao Geng, Zhimeng Zhong, Qingyong Li, Katsuyuki Haneda, Claude Oestges, A Power-Angle-Spectrum Based Clustering and Tracking Algorithm for Time-varyingRadio Channels, **COST2020**, CA15104 TD(20) 12002, 2020.
 
 
 ## <span id="jump4">Tutorials</span>
