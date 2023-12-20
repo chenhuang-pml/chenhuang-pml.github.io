@@ -94,7 +94,7 @@ redirect_from:
 
 [26]. Y. Wu, Y. Wang, J. Huang, C. -X. Wang\*, and **C. Huang\***, “A weighted random forest based positioning algorithm for 6G indoor communications,” in ***Proc. IEEE VTC2022-Fall***, London, United Kingdom, Sep. 2022, pp. 1-6.
 
-[27]. **C. Huang**, A. Molisch, R. Wang, P. Tang, R. He and Z. Zhong, “Angular information-based NLOS/LOS identification for vehicle to vehicle MIMO system,” in ***Proc. 2019 IEEE ICC-ws***, May 2019, pp. 1-6. 
+[27]. **C. Huang**, A. Molisch, R. Wang, P. Tang, R. He and Z. Zhong, “Angular information-based NLOS/LOS identification for vehicle to vehicle MIMO system,” in ***Proc. 2019 IEEE ICC-ws***, Shanghai, China, May 2019, pp. 1-6. 
 
 [28]. **C. Huang**, A. F. Molisch, R. Wang, P. Tang, R. He and Z. Zhong, “Research on kernel functions of SVM for line-of-sight identification in vehicle-to-vehicle MIMO system,” in ***Proc. 2019 IEEE A-PS***, GA, USA, Jul. 2019, pp. 2107-2108.
 
