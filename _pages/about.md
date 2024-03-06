@@ -42,7 +42,7 @@ redirect_from:
 
 ## 代表性期刊论文
 
-[1]. **C. Huang**, C.-X. Wang\*, Z. Li, Z. Qian, W. Zhou, Junling Li\*, Y. Miao, “A frequency-domain predictive channel model for 6G wireless MIMO systems based on deep learning,” ***IEEE Trans. Commun.***, accepted for publication.
+[1]. **C. Huang**, C.-X. Wang\*, Z. Li, Z. Qian, W. Zhou, J. Li\*, Y. Miao, “A frequency-domain predictive channel model for 6G wireless MIMO systems based on deep learning,” ***IEEE Trans. Commun.***, accepted for publication.
 
 [2]. Z. Li, C.-X. Wang\*, **C. Huang\***, J. Huang, J. Li, W. Zhou, and Y. Chen, “A GAN-GRU based space-time predictive channel model for 6G wireless communication systems,” ***IEEE Trans. Veh. Technol.***, accepted for publication.
 
