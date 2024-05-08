@@ -161,7 +161,7 @@ redirect_from:
 
 ### PCT专利
 
-[8]. C. Wang, Z. Li, J. Huang, W. Zhou, **C. Huang**，一种基于对抗网络与长短期记忆网络的预测信道建模方法，5535/0125PUS1，USA
+[8]. C. Wang, Z. Li, J. Huang, W. Zhou, **C. Huang**，Predictive channel modeling method based on generative adversarial network and long short-term memory artificial neural network，5535/0125PUS1, USA
 
 
 ### 受理中
