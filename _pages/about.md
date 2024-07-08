@@ -91,6 +91,7 @@ redirect_from:
 ## 代表性会议论文
 
 [24]. T. Qi, **C. Huang\***, J. Shi, J. Li, and C.-X. Wang\*, “A novel dynamic channel map for 6G MIMO communications,” in ***Proc. IEEE ICCC'24***, Hangzhou, China, accepted.
+
 [25]. H. Li, **C. Huang\***, C.-X. Wang\*, J. Li, "Scenario classification and channel modeling for MIMO communications in dense urban street scenarios," in ***Proc. IEEE EuCAP'24***, Glasgow, Scotland, pp. 1-5.
 
 [26]. D. Zhao, **C. Huang\***, C.-X. Wang\*, J. Li, Z. Qian, and W. Zhou, "Channel characterization and modeling for wireless MIMO communication systems in intersection scenarios," in ***Proc. EuCAP'24***, Glasgow, Scotland, pp. 1-5.
