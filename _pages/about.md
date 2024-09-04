@@ -251,6 +251,7 @@ redirect_from:
 
 
 - IEEE/CIC ICCC Best Demo Award，2024
+- 第28届“中国青年五四奖章集体”，2024
 - 紫金山实验室工会积极分子，2023 
 - IEEE ICCT Best Paper Award (Corresponding Author)，2023
 - 中兴通讯“促进产学研合作青年专家委员会”专家，2023
