@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">黄晨，紫金山实验室无线通信研究员（副研究员），东南大学校外导师，入选中国科协青年人才托举工程，江苏省卓越博士后，中国通信学会高级会员，中兴通讯“促进产学研合作青年专家委员会”专家，IEEE P1499标准组AI信道建模推进组主席。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)。2018年至2021年分别前往美国南加州大学Andreas F. Molisch教授（奥地利科学院院士，美国发明家科学院院士，IEEE Fellow）团队与比利时鲁汶大学Claude Oestges教授（IEEE Fellow，COST协议主席）团队访问交流。2021年加入东南大学首席教授、紫金山实验室课题负责人王承祥教授(欧洲科学院院士，IEEE Fellow)团队从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究。</div>
+<div style="text-align: justify">黄晨，紫金山实验室无线通信研究员（副研究员），东南大学校外导师，入选中国科协青年人才托举工程，江苏省卓越博士后，中国通信学会高级会员，中兴通讯“促进产学研合作青年专家委员会”专家，IEEE P1499标准组AI信道建模推进组主席。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)。2018年至2021年分别前往美国南加州大学Andreas F。 Molisch教授（IEEE Fellow）团队与比利时鲁汶大学Claude Oestges教授（IEEE Fellow）团队访问交流。2021年加入东南大学首席教授、紫金山实验室课题负责人王承祥教授(欧洲科学院院士，IEEE Fellow)团队从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究。</div>
 --------------------------------------------------------------------------------------------------------------------------------
-<div style="text-align: justify">主持国家重点研发计划课题、国自然青基、江苏省重点研发子课题等科研项目10余项，已发表论文60余篇，授权专利7项，受理专利10项，英文专著1部（章节一作），3篇国际会议论文获IEEE/CIC ICCC2018、WCSP2018、IEEE ICCT“最佳论文奖”，提出的数字孪生信道地图平台获IEEE/CIC ICCC2024 BEST DEMO奖，谷歌引用1000余次，并在GlobeCom、VTC、WCNC等多个国际会议上做专题报告(Tutorials)，目前担任IEEE Trans. Veh. Technol.，Frontiers in Communications and Networks和Frontiers in Signal Processing期刊编辑，并担任多个国际会议的Chair/Co-Chair、TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
+<div style="text-align: justify">主持国家重点研发计划课题、国自然青基、江苏省重点研发子课题等科研项目10余项，已发表SCI/EI检索论文60余篇（一作/通讯31篇），授权专利7项，受理专利10项，英文专著1部（章节一作），3篇国际会议论文获IEEE/CIC ICCC2018、WCSP2018、IEEE ICCT“最佳论文奖”，提出的数字孪生信道地图平台获IEEE/CIC ICCC2024 BEST DEMO奖，谷歌引用1000余次，并在GlobeCom、VTC、WCNC等多个国际会议上做专题报告(Tutorials)，目前担任IEEE Trans. Veh. Technol.，Frontiers in Communications and Networks和Frontiers in Signal Processing期刊编辑，并担任多个国际会议的Chair/Co-Chair、TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
 
 
 > 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml;
@@ -50,9 +50,9 @@ redirect_from:
 
 [3]. W. Zhou, C.-X. Wang\*, **C. Huang\***, Z. Li, Z. Qian, Z. Lv, and Y. Chen, “Channel scenario extensions, identifications, and adaptive modeling for 6G wireless communications,” ***IEEE Internet Things J.***, vol. 11, no. 5, pp. 7285-7308, Mar. 1, 2024.
 
-[4]. **C. Huang**, R. He\*, B. Ai\*, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” ***IEEE Trans. Antennas Propag.***, vol. 70, no. 6, pp. 3955-3969, June 2022. (**Invited paper**, **IEEE Monthly Featured Article**)
+[4]. **C. Huang**, R. He\*, B. Ai\*, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” ***IEEE Trans. Antennas Propag.***, vol. 70, no. 6, pp. 3955-3969, June 2022. (**Invited paper**, **IEEE Monthly Featured Article**, **TAP popular paper**)
 
-[5]. **C. Huang**, R. He\*, B. Ai\*, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part I: Channel characterization and antenna-channel optimization,” ***IEEE Trans. Antennas Propag.***, vol. 70, no. 6, pp. 3939-3954, June 2022. (**Invited paper**, **IEEE Monthly Featured Article**)
+[5]. **C. Huang**, R. He\*, B. Ai\*, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part I: Channel characterization and antenna-channel optimization,” ***IEEE Trans. Antennas Propag.***, vol. 70, no. 6, pp. 3939-3954, June 2022. (**Invited paper**, **IEEE Monthly Featured Article**, **TAP popular paper**)
 
 [6]. **C. Huang**, R. Wang, C.-X. Wang\*, P. Tang, A. F. Molisch, “A geometry-based stochastic model for truck communication channels in freeway scenarios,” ***IEEE Trans. Commun.***,  vol. 70, no. 8, pp. 5572-5586, Aug. 2022.
 
@@ -94,7 +94,7 @@ redirect_from:
 
 [24]. Z. Qian, **C. Huang\***, C.-X. Wang\*, J. Li, and W. Zhou, “A novel intelligent scenario identification algorithm and channel characteristics analysis for 6G urban wireless communications” in ***Proc. IEEE Globecom’24***, Cape Town, South Africa, Dec. 2024, pp. 1-6.
 
-[25]. S. Xiao, H. Zhang, M. Yao, C. Cui, J. Li, **C. Huang\**, and C.-X. Wang\*, “A novel 3D environment-aware digital twin online channel modeling platform,” in ***Proc. IEEE/CIC ICCC'24***, Hangzhou, China, Aug. 2024, pp. 1-2, 2024. (**BEST DEMO AWARD**)
+[25]. S. Xiao, H. Zhang, M. Yao, C. Cui, J. Li, **C. Huang\***, and C.-X. Wang\*, “A novel 3D environment-aware digital twin online channel modeling platform,” in ***Proc. IEEE/CIC ICCC'24***, Hangzhou, China, Aug. 2024, pp. 1-2, 2024. (**BEST DEMO AWARD**)
 
 [26]. T. Qi, **C. Huang\***, J. Shi, J. Li, and C.-X. Wang\*, “A novel dynamic channel map for 6G MIMO communications,” in ***Proc. IEEE/CIC ICCC'24***, Hangzhou, China, Aug. 2024, pp. 1-6.
 
