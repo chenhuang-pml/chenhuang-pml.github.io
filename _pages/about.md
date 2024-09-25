@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="text-align: justify">黄晨，紫金山实验室无线通信研究员（副研究员），东南大学校外博士生导师，IEEE P1499标准组AI信道建模推进组主席，入选中国科协青年人才托举工程，江苏省卓越博士后，中国通信学会高级会员，中兴通讯“促进产学研合作青年专家委员会”专家。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)。2018年至2021年分别前往美国南加州大学Andreas F。 Molisch教授（IEEE Fellow）团队与比利时鲁汶大学Claude Oestges教授（IEEE Fellow）团队访问交流。2021年加入东南大学首席教授、紫金山实验室课题负责人王承祥教授(欧洲科学院院士，IEEE Fellow)团队从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究。</div>
 --------------------------------------------------------------------------------------------------------------------------------
-<div style="text-align: justify">主持国家重点研发计划课题、国自然青基、江苏省重点研发子课题等科研项目10余项，已发表SCI/EI检索论文60余篇（一作/通讯31篇），授权专利7项，受理专利10项，英文专著1部（章节一作），3篇国际会议论文获IEEE/CIC ICCC2018、WCSP2018、IEEE ICCT“最佳论文奖”，提出的数字孪生信道地图平台获IEEE/CIC ICCC2024 BEST DEMO奖，谷歌引用1000余次，并在GlobeCom、VTC、WCNC等多个国际会议上做专题报告(Tutorials)，目前担任IEEE Trans. Veh. Technol.，Frontiers in Communications and Networks和Frontiers in Signal Processing期刊编辑，并担任多个国际会议的Chair/Co-Chair、TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
+<div style="text-align: justify">主持国家重点研发计划课题、国自然青基、江苏省重点研发子课题等科研项目10余项，已发表SCI/EI检索论文60余篇（一作/通讯31篇），授权专利7项，受理专利11项，英文专著1部（章节一作），3篇国际会议论文获IEEE/CIC ICCC2018、WCSP2018、IEEE ICCT“最佳论文奖”，提出的数字孪生信道地图平台获IEEE/CIC ICCC2024 BEST DEMO奖，谷歌引用1000余次，并在GlobeCom、VTC、WCNC等多个国际会议上做专题报告(Tutorials)，目前担任IEEE Trans. Veh. Technol.，Frontiers in Communications and Networks和Frontiers in Signal Processing期刊编辑，并担任多个国际会议的Chair/Co-Chair、TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
 
 
 > 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml;
@@ -195,6 +195,8 @@ redirect_from:
 [17]. 王承祥，李哲鳌，**黄晨**，于龙，李俊伶，钱中玉. 一种基于散射体密度的场景预测信道建模方法. 受理号：202311097011.1.
 
 [18]. 何睿斯，孙桂琪，**黄晨**，艾渤，马张枫，米航，陈瑞凤，费丹，钟章队. 一种动态信道的时变多径聚类方法，受理号：202111312442.6
+
+[19]. 王承祥，武阳，王樱华，**黄晨**，李俊伶，杨松江. 适用于6G室内通信的视距/非视距识别辅助定位方法[18]. ，受理号：202411330758.1
 
 
 
