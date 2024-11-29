@@ -95,6 +95,7 @@ redirect_from:
 [23]. Q. Chen, **C. Huang**, and L. Tang. “Load-ware based dynamic enhanced inter-cell interference coordination scheme in heterogeneous networks,” ***Journal of Beijing University of Posts & Telecommunications***, vol. 16, no. 11, 2015. （EI期刊，导师一作）
 
 [24]. **C. Huang**, Q. Chen, and L. Tang. “A survey on interference management for LTE-A network,” ***Journal of Chongqing University of Posts & Telecommunications***, vol. 27, no. 3, 2015.（中文核心）
+
 [25]. H. Chang, C. -X. Wang*, R. Feng, **C. Huang**, L. Hou and E. -H. M. Aggoune, "Beam Domain Channel Modeling and Prediction for UAV Communications," ***IEEE Transactions on Wireless Communications***，accepted for publication.
 
 
