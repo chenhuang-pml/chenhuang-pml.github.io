@@ -57,7 +57,7 @@ redirect_from:
 
 [4]. W. Zhou, C.-X. Wang\*, **C. Huang\***, Z. Li, Z. Qian, Z. Lv, and Y. Chen, “Channel scenario extensions, identifications, and adaptive modeling for 6G wireless communications,” ***IEEE Internet Things J.***, vol. 11, no. 5, pp. 7285-7308, Mar. 1, 2024.
 
-[5]. W. Zhou, C.-X. Wang\*, **C. Huang\***, R. Feng, Z. Lv, Z. Qian, and S. Ding, "An ECA-ResNet Based Intelligent Communication Scenario Identification Algorithm for 6G Wireless Communications," ***Wiley-International Journal of Intelligent Systems***, vol. 2024, pp. 1.
+[5]. W. Zhou, C.-X. Wang\*, **C. Huang\***, R. Feng, Z. Lv, Z. Qian, and S. Ding, "An ECA-ResNet Based Intelligent Communication Scenario Identification Algorithm for 6G Wireless Communications," ***Wiley-International Journal of Intelligent Systems***, vol. 2024, pp. 1-15.
 
 [6]. **C. Huang**, R. He\*, B. Ai\*, A. F. Molisch, B. K. Lau, K. Haneda, B. Liu, C.-X. Wang, M. Yang, O. Claude and Z. Zhong, “Artificial intelligence enabled radio propagation for communications—Part II: Scenario identification and channel modeling,” ***IEEE Trans. Antennas Propag.***, vol. 70, no. 6, pp. 3955-3969, June 2022. (**Invited paper**, **IEEE Monthly Featured Article**, **TAP popular paper**)
 
