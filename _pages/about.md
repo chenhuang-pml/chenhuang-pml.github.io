@@ -51,7 +51,7 @@ redirect_from:
 
 [1]. S. Chen, C.-X. Wang\*, J. Li, **C. Huang\***, H. Chang, Y. Huang, J. Huang, and Y. Chen, “Channel map-based angle domain multiple access for cell-free massive MIMO communications,” ***IEEE J. SeI. Top. Signal Process.***, accepted for publication, 2025.  
 
-[2]. J. Li,  C.-X. Wang\*, **C Huang\***, T. Qian, T. Wu, “Digital twin online channel modeling: Challenges, principles, and applications,” ***IEEE. Veh. Technol. Mag.***, accepted for publication, 2025.  
+[2]. J. Li,  C.-X. Wang\*, **C Huang\***, T. Qian, T. Wu, “Digital twin online channel modeling: Challenges, principles, and applications,” ***IEEE. Veh. Technol. Mag.***, vol. 20, no. 1, pp 94-103, 2025.  
 
 [3]. **C. Huang**, C.-X. Wang\*, Z. Li, Z. Qian, W. Zhou, J. Li\*, Y. Miao, “A frequency-domain predictive channel model for 6G wireless MIMO systems based on deep learning,” ***IEEE Trans. Commun.***, vol. 72, no. 8, pp. 4887-4902, Aug. 2024.
 
@@ -278,6 +278,7 @@ redirect_from:
 
 - IEEE/CIC ICCC Best Demo Award，2024
 - 第28届“中国青年五四奖章集体”，2024
+- 江苏省电子信息领域十大科技进展，2023
 - 紫金山实验室工会积极分子，2023 
 - IEEE ICCT Best Paper Award (Corresponding Author)，2023
 - 中兴通讯“促进产学研合作青年专家委员会”专家，2023
@@ -302,6 +303,9 @@ redirect_from:
 - 重庆邮电大学优秀毕业生 , 重庆邮电大学，2016
 - 英语演讲大赛一等奖，重庆邮电大学, 2014
 - 英语演讲大赛最佳风采奖，重庆邮电大学, 2014
+
+
+
 
 ## <span id="jump6">教育经历</span>
 >[返回页首](#jumpx)
