@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">黄晨，紫金山实验室无线通信研究员（副研究员），东南大学校外博士生导师，IEEE P1499标准组AI信道建模推进组主席，入选中国科协青年人才托举工程，江苏省“333”高层次人才计划，江苏省卓越博士后，中国通信学会高级会员，中兴通讯“促进产学研合作青年专家委员会”专家，《电波科学学报》青年编委，南京市江宁区第四届侨联委员。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)。2018年至2020年分别前往美国南加州大学Andreas F. Molisch教授（IEEE Fellow）团队与比利时鲁汶大学Claude Oestges教授（IEEE Fellow）团队访问交流。2021年加入东南大学首席教授、紫金山实验室课题负责人王承祥教授(欧洲科学院院士，IEEE Fellow)团队从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究。</div>
+<div style="text-align: justify">黄晨，紫金山实验室无线通信研究员（副研究员），东南大学校外博士生导师，IEEE P1499标准组AI信道建模推进组主席，入选中国科协青年人才托举工程，江苏省“333”高层次人才计划，江苏省卓越博士后，中国通信学会高级会员，江苏省无线通信专委会委员，中兴通讯“促进产学研合作青年专家委员会”专家，《电波科学学报》青年编委，南京市江宁区第四届侨联委员。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)。2018年至2020年分别前往美国南加州大学Andreas F. Molisch教授（IEEE Fellow）团队与比利时鲁汶大学Claude Oestges教授（IEEE Fellow）团队访问交流。2021年加入东南大学首席教授、紫金山实验室课题负责人王承祥教授(欧洲科学院院士，IEEE Fellow)团队从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究。</div>
 --------------------------------------------------------------------------------------------------------------------------------
 <div style="text-align: justify">主持国家重点研发计划课题、国自然重点项目课题、国自然青基、江苏省前沿重点课题等科研项目10余项，已发表SCI/EI检索论文60余篇（一作/通讯35篇），授权专利8项，受理专利10项，英文专著1部（章节一作），提交6G标准提案12项，4篇国际会议论文获IEEE ICC2025、IEEE/CIC ICCC2018、WCSP2018、IEEE ICCT“最佳论文奖”，提出的数字孪生信道地图平台获IEEE/CIC ICCC2024 BEST DEMO奖，谷歌引用1500余次，并在GlobeCom、VTC、WCNC等多个国际会议上做专题报告(Tutorials)，目前担任IEEE Trans. Veh. Technol.，Frontiers in Communications and Networks和Frontiers in Signal Processing期刊编辑，并担任多个国际会议的Chair/Co-Chair、TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
 
@@ -56,7 +56,7 @@ redirect_from:
 
 [4]. 王承祥, 吕振, **黄晨**, 徐凡, 王俊, 黄杰, 尤肖虎, “面向标准化的6G全频段全场景普适信道模型,” ***中国科学：信息科学***, 2025, 55: 1486-1507, doi: 10.1360/SSI-2025-0029.  
 
-[5]. S. Chen, C.-X. Wang\*, J. Li, **C. Huang\***, H. Chang, Y. Huang, J. Huang, and Y. Chen, “Channel map-based angle domain multiple access for cell-free massive MIMO communications,” ***IEEE J. SeI. Top. Signal Process.***, accepted for publication, 2025.  
+[5]. S. Chen, C.-X. Wang\*, J. Li, **C. Huang\***, H. Chang, Y. Huang, J. Huang, and Y. Chen, “Channel map-based angle domain multiple access for cell-free massive MIMO communications,” ***IEEE J. SeI. Top. Signal Process.***, vol. 19, no. 2, pp. 366-380, Mar. 2025.  
 
 [6]. J. Li,  C.-X. Wang\*, **C Huang\***, T. Qian, T. Wu, “Digital twin online channel modeling: Challenges, principles, and applications,” ***IEEE. Veh. Technol. Mag.***, vol. 20, no. 1, pp 94-103, 2025.  
 
@@ -64,7 +64,7 @@ redirect_from:
 
 [8]. **C. Huang**, C.-X. Wang\*, Z. Li, Z. Qian, W. Zhou, J. Li\*, Y. Miao, “A frequency-domain predictive channel model for 6G wireless MIMO systems based on deep learning,” ***IEEE Trans. Commun.***, vol. 72, no. 8, pp. 4887-4902, Aug. 2024.
 
-[9]. L. Xin, C. -X. Wang, J. Huang, **C. Huang\***, e. -H. M. Aggoune and Y. Chen, "An Improved KPD Algorithm for Clustering of Wireless Channel Multipath Components,"***IEEE Trans. Veh. Technol.***, accepted for publication, 2024.
+[9]. L. Xin, C. -X. Wang, J. Huang, **C. Huang\***, e. -H. M. Aggoune and Y. Chen, "An Improved KPD Algorithm for Clustering of Wireless Channel Multipath Components,"***IEEE Trans. Veh. Technol.***, vol. 74, no. 4, pp. 6064-6075, Apr. 2025.
 
 [10]. Z. Li, C.-X. Wang\*, **C. Huang\***, J. Huang, J. Li, W. Zhou, and Y. Chen, “A GAN-GRU based space-time predictive channel model for 6G wireless communication systems,” ***IEEE Trans. Veh. Technol.***, vol. 73, no. 7, pp. 9370-9386, July 2024.
 
@@ -271,7 +271,7 @@ redirect_from:
 ## <span id="jump4">Tutorials</span>
 >[返回页首](#jumpx)
 
-[1]. C.-X. Wang, J. Huang, **C. Huang**, and H. Haas, “6G wireless channels: measurements, characteristics analysis, and modeling methodologies,” Tutorial, in *Proc. IEEE WCNC’24*, Dubai, United Arab Emirates, 21–24 April. 2024.  https://wcnc2024.ieee-wcnc.org/
+[1]. C.-X. Wang, J. Huang, **C. Huang**, and H. Haas, “6G wireless channels: measurements, characteristics analysis, and modeling methodologies,” Tutorial, in *Proc. IEEE WCNC’24*, Dubai, United Arab Emirates, 21–24 Apr. 2024.  https://wcnc2024.ieee-wcnc.org/
 
 [2]. C.-X. Wang, J. Huang, **C. Huang**, and H. Haas, “Towards 6G Communications: Wireless Channel Measurements, Characteristics Analysis, and Modeling” Tutorial, in *Proc. IEEE GlobeCom’23*, Kuala Lumpur, Malaysia, 4 - 10 Dec. 2023. 
 
