@@ -52,7 +52,7 @@ redirect_from:
 
 [1]. T. Qi, C.-X. Wang\*, **C. Huang\***, J. Shi, J. Li, S. Chen, and H. Aggoune, “A novel 6G dynamic channel map based on a hybrid channel model,” ***IEEE Trans. Veh. Technol.***, accepted for publication, 2025.
 
-[2]. Y. Wu, C.-X. Wang\*, **C. Huang\***, J. Li, L. Zhang, E. Aggoune, and Y. Chen, "A Novel LoS/NLoS Identification-Assisted Positioning Method for 6G Indoor MIMO Communications," ***IEEE Trans. Commun.***, accepted for publication.
+[2]. Y. Wu, C.-X. Wang\*, **C. Huang\***, J. Li, L. Zhang, E. Aggoune, and Y. Chen, "A Novel LoS/NLoS Identification-Assisted Positioning Method for 6G Indoor MIMO Communications," ***IEEE Trans. Commun.***, vol. 73, no. 12, pp. 13578-13594, Dec. 2025.
 
 [3]. J. Ji, C.-X. Wang*, S. Chen*, C. Huang, X. Wu, and E. Björnson,“Joint low-rank and sparse Bayesian channel estimation for ultra-massive MIMO communications,” ***IEEE Commun. Lett.***, early access, 2025, doi: 10.1109/LCOMM.2025.3637318.  
 
