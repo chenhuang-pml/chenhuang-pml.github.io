@@ -326,6 +326,7 @@ redirect_from:
 ## <span id="jump5">获奖及荣誉</span>
 >[返回页首](#jumpx)
 
+- 2025年信息通信领域十大科技进展（序3），2025
 - 中国博士后创新创业大赛，金奖（序1），2025
 - 江苏省博士后创新创业大赛一等奖（序1），2025 
 - IEEE ICC Best Paper Award (Corresponding Author)，2025
