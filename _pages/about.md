@@ -52,7 +52,7 @@ redirect_from:
 
 ## 代表性期刊论文
 
-[1]. **C. Huang**, C.-X. Wang\*, J. Li\*, L. Bai, Z. Cui, M. Yang, B. Ai, X. Cheng, and A. Jamalipour, “AI-Driven 6G Pervasive Predictive Wireless Channel Modeling for IEEE P1944 Standardization: A Comprehensive Survey,” ***IEEE J. Sel. Top. Electromagn., Antennas Propag.***, accepted for publication, 2026.
+[1]. **C. Huang**, C.-X. Wang\*, J. Li\*, L. Bai, Z. Cui, M. Yang, B. Ai, X. Cheng, and A. Jamalipour, “AI-Driven 6G Pervasive Predictive Wireless Channel Modeling for IEEE P1944 Standardization: A Comprehensive Survey,” ***IEEE J. Sel. Top. Electromagn., Antennas Propag.***, vol. 2, pp. 255-275, 2026, Art no. JSTEAP-0002-Jan-2026, doi: 10.1109/JSTEAP.2026.3708808.
 
 [2]. H. Ji, C.-X. Wang\*, Z. Li, R. Chen, X. Wu, **C. Huang** and Z. Meng, “LLM4CoT: Large language models orchestrating chain-of-task optimization via Meta-Adapter in 6G heterogeneous networks,” ***IEEE Trans. Net. Sci. Eng.***, vol. 13, pp. 9430-9446, May, 2026.
 
@@ -336,11 +336,13 @@ redirect_from:
 
 - 2025年度信息通信领域十大科技进展（序3），2026
 - 2025年度紫金山实验室优秀员工，2026
+- 2025年度紫金山实验室“优秀职能管理创新团队”，2026
 - 中国博士后创新创业大赛，金奖（序1），2025
 - 江苏省博士后创新创业大赛一等奖（序1），2025 
 - IEEE ICC Best Paper Award (Corresponding Author)，2025
 - 江苏省“333”高层次人才第三层次，2025
 - 紫金山实验室普适通信研究中心“敬业奉献奖”，2025
+- 紫金山实验室年度优秀科研成果奖，2025
 - IEEE/CIC ICCC Best Demo Award，2024
 - 第28届“中国青年五四奖章集体”，2024
 - 江苏省电子信息领域十大科技进展，2023
