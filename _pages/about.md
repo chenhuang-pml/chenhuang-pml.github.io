@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="text-align: justify">黄晨，紫金山实验室无线通信研究员（副研究员），东南大学校外博士生导师，IEEE P1499标准组AI信道建模推进组主席，入选中国科协青年人才托举工程，江苏省“333”高层次人才计划，江苏省卓越博士后，中国通信学会高级会员，江苏省无线通信专委会委员，中兴通讯“促进产学研合作青年专家委员会”专家，《电波科学学报》青年编委，南京市江宁区第四届侨联委员。毕业于北京交通大学计算机与信息技术学院，师从钟章队教授(IEEE Fellow)。2018年至2020年分别前往美国南加州大学Andreas F. Molisch教授（IEEE Fellow）团队与比利时鲁汶大学Claude Oestges教授（IEEE Fellow）团队访问交流。2021年加入东南大学首席教授、紫金山实验室课题负责人王承祥教授(欧洲科学院院士，IEEE Fellow)团队，目前担任课题组副组长（Deputy Head）从事6G智能无线通信、基于人工智能的无线信道特性分析与建模研究。</div>
 --------------------------------------------------------------------------------------------------------------------------------
-<div style="text-align: justify">主持国家重点研发计划课题、国自然重点项目课题、国自然青基、江苏省前沿重点课题等科研项目10余项，已发表SCI/EI检索论文90余篇（一作/通讯40余篇），授权专利15项，受理专利9项，英文专著1部（章节一作），提交6G标准提案14项，4篇国际会议论文获IEEE ICC2025、IEEE/CIC ICCC2018、WCSP2018、IEEE ICCT2023“最佳论文奖”，提出的数字孪生信道地图平台获2024与2026年度IEEE/CIC ICCC BEST DEMO奖，并获2025年度信息通信领域十大科技进展、中国博士后创新创业大赛金奖等荣誉，谷歌引用3400余次，并在GlobeCom、VTC、WCNC等多个国际会议上做专题报告(Tutorials)，目前担任IEEE Trans. Veh. Technol.，Frontiers in Communications and Networks, Frontiers in Signal Processing，电波科学学报等多个期刊编委，并担任多个国际会议的Chair/Co-Chair、TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
+<div style="text-align: justify">主持国家重点研发计划课题、国自然重点项目课题、国自然青基、江苏省前沿重点课题等科研项目10余项，已发表SCI/EI检索论文90余篇（一作/通讯40余篇），授权专利15项，受理专利9项，英文专著1部（章节一作），提交6G标准提案14项，4篇国际会议论文获IEEE ICC2025、IEEE/CIC ICCC2018、WCSP2018、IEEE ICCT2023“最佳论文奖”，提出的数字孪生信道地图平台获2024与2026年度IEEE/CIC ICCC BEST DEMO奖，并获2025年度信息通信领域十大科技进展、中国博士后创新创业大赛金奖等荣誉，谷歌引用3400余次，并在GlobeCom、VTC、WCNC等多个国际会议上做专题报告(Tutorials) 6次，目前担任IEEE Trans. Veh. Technol.，Frontiers in Communications and Networks, Frontiers in Signal Processing，电波科学学报等多个期刊编委，并担任多个国际会议的Chair/Co-Chair、TPC Member以及IEEE JSAC、ComMag、TWC、TCOM、TAP、TVT等多个期刊及会议的审稿人。</div>
 
 
 > 邮箱：huangchen@pmlabs.com.cn; 微信号：huangchen_pml;
@@ -317,15 +317,17 @@ redirect_from:
 ## <span id="jump4">Tutorials</span>
 >[返回页首](#jumpx)
 
-[1]. C.-X. Wang, J. Huang, **C. Huang**, and H. Haas, “6G wireless channels: measurements, characteristics analysis, and modeling methodologies,” Tutorial, in *Proc. IEEE WCNC’24*, Dubai, United Arab Emirates, 21–24 Apr. 2024.  https://wcnc2024.ieee-wcnc.org/
+[1]. C.-X. Wang, J. Huang, J. Li, **C. Huang**, X. Wu and S. Zhou, “Methods and Performance Evaluation Metrics of 6G/B6G Wireless Channel Map Constructions” Tutorial, in *Proc. in IEEE/CIC ICCC’26*, Wuhan, China, 7 Aug. 2026.
 
-[2]. C.-X. Wang, J. Huang, **C. Huang**, and H. Haas, “Towards 6G Communications: Wireless Channel Measurements, Characteristics Analysis, and Modeling” Tutorial, in *Proc. IEEE GlobeCom’23*, Kuala Lumpur, Malaysia, 4 - 10 Dec. 2023. 
+[2]. C.-X. Wang, J. Huang, **C. Huang**, and H. Haas, “6G wireless channels: measurements, characteristics analysis, and modeling methodologies,” Tutorial, in *Proc. IEEE WCNC’24*, Dubai, United Arab Emirates, 21–24 Apr. 2024.  https://wcnc2024.ieee-wcnc.org/
 
-[3]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “6G Wireless Channels: Measurements, Characteristics Analysis, and Modeling Methodologies,” Tutorial, in *Proc. in IEEE VTC-Fall’23*, Hong Kong, China, 10 Oct. 2023.
+[3]. C.-X. Wang, J. Huang, **C. Huang**, and H. Haas, “Towards 6G Communications: Wireless Channel Measurements, Characteristics Analysis, and Modeling” Tutorial, in *Proc. IEEE GlobeCom’23*, Kuala Lumpur, Malaysia, 4 - 10 Dec. 2023. 
 
-[4]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
+[4]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “6G Wireless Channels: Measurements, Characteristics Analysis, and Modeling Methodologies,” Tutorial, in *Proc. in IEEE VTC-Fall’23*, Hong Kong, China, 10 Oct. 2023.
 
-[5]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
+[5]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Channel measurements and modeling methods for 6G wireless communication systems,” Tutorial, in *Proc. IEEE WCNC’23*, Glasgow, Scotland, UK, 26–29 Mar. 2023. 
+
+[6]. C.-X. Wang, J. Huang, **C. Huang**, H. Wang, and H. Haas, “Wireless Channel Measurements, Characteristics Analysis, and Modeling Methodologies Towards 6G,” Tutorial, in *Proc. in IEEE/CIC ICCC’23*, Dalian, China, 10 Aug. 2023.
 
 ## <span id="jump41">英文专著</span>
 >[返回页首](#jumpx)
