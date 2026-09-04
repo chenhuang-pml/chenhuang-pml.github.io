@@ -56,9 +56,9 @@ redirect_from:
 
 [1]. **C. Huang**, C.-X. Wang\*, J. Li\*, L. Bai, Z. Cui, M. Yang, B. Ai, X. Cheng, and A. Jamalipour, “AI-Driven 6G Pervasive Predictive Wireless Channel Modeling for IEEE P1944 Standardization: A Comprehensive Survey,” ***IEEE J. Sel. Top. Electromagn., Antennas Propag.***, vol. 2, pp. 255-275, 2026, Art no. JSTEAP-0002-Jan-2026, doi: 10.1109/JSTEAP.2026.3708808.
 
-[2]. Z. Qian, W. Zhou, C.-X. Wang\*, **C. Huang**, J. Li, and E.-H. M. Aggoune, “A novel intelligent scenario identification algorithm and channel characteristics analysis for 6G wireless communications,” ***Sci. China Inf. Sci.***, accepted for publication, 2026.
+[2]. Z. Qian, W. Zhou, C.-X. Wang\*, **C. Huang\***, J. Li, and E.-H. M. Aggoune, “A novel intelligent scenario identification algorithm and channel characteristics analysis for 6G wireless communications,” ***Sci. China Inf. Sci.***, accepted for publication, 2026.
 
-[3]. T. Qi, C.-X. Wang\*, C. Huang\*, J. Li and J. S. Thompson, “Data-model co-driven continuous channel map construction: A perceptive foundation for embodied intelligent agents in 6G networks,” ***IEEE Trans. Cogn. Commun. Netw.***, vol. 12, pp. 9297-9311, 2026.
+[3]. T. Qi, C.-X. Wang\*, **C. Huang\***, J. Li and J. S. Thompson, “Data-model co-driven continuous channel map construction: A perceptive foundation for embodied intelligent agents in 6G networks,” ***IEEE Trans. Cogn. Commun. Netw.***, vol. 12, pp. 9297-9311, 2026.
 
 [4]. H. Ji, C.-X. Wang\*, Z. Li, R. Chen, X. Wu, **C. Huang** and Z. Meng, “LLM4CoT: Large language models orchestrating chain-of-task optimization via Meta-Adapter in 6G heterogeneous networks,” ***IEEE Trans. Net. Sci. Eng.***, vol. 13, pp. 9430-9446, May, 2026.
 
